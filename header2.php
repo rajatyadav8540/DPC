@@ -5,42 +5,20 @@
 <head>
 <meta name="msvalidate.01" content="C52810F00EB501F89887A00122863B0A" />	
 <script src="https://www.kenyt.ai/botapp/ChatbotUI/dist/js/bot-loader.js" type="text/javascript" data-bot="55438071"></script>	
-	
-<!-- Global site tag (gtag.js) - Google Ads: 454762883 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-454762883"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'AW-454762883');
-  
- <!-- Google Tag Manager Code Added 30-4-21-->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-53D399H');</script>
-<!-- End Google Tag Manager -->
- 
-</script>
-	
-	
-	
 	
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link href="https://use.fontawesome.com/releases/v5.0.9/css/all.css" rel="stylesheet" crossorigin="anonymous">
 
-<meta name="msapplication-TileColor" content="">
-<meta name="theme-color" content="">
-
-<link rel="profile" href="http://gmpg.org/xfn/11">
-
-<title>Best Diabetologist in Pune - Chellaram Multispeciality Hospital</title>
 
 
-</script>
+
+
+<title>DPC</title>
+
+
+
 
 <style>		
 
@@ -334,7 +312,7 @@ a{
 		</style>
 	<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	<!-- Global site tag (gtag.js) - Google Analytics -->
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-19255646-2"></script>
+<
 
 <script>
 
@@ -348,21 +326,8 @@ a{
 
   gtag('config', 'UA-19255646-2');
 
-</script>
-	<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-53D399H');</script>
-<!-- End Google Tag Manager -->
-</head>
-<body class="department-template-default single single-department postid-1123 woocommerce-no-js cosgrove wpb-js-composer js-comp-ver-5.5.2 vc_responsive">
+</>
 
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-53D399H"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
 
 
 <!-- header start -->
