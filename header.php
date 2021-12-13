@@ -276,7 +276,7 @@ display: none;
 
 </head>
   <body>
-      <?php require 'common.php' ?>
+      <!-- <?php require 'common.php' ?> -->
       <div class="csgve-main-wrap navigation-style-two"> <!-- #vtheme-wrapper -->
 
     <header class="csgve-header  header-style-two  hide-title-area">
