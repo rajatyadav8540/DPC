@@ -476,329 +476,87 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-<?php include 'header3.php' ?>    
-<div class="csgve-mid-wrap padding-cnt-no csgve-full-width" style="">
+<?php include 'header3.php' ?>
+    
+<!-- Csgve Page Title, Csgve Parallax -->
+<div class="csgve-page-title csgve-parallax padding-none default-title" style="background-image: url(img\loog.jpg);">
+		<div class="csgve-overlay-pattern" style="background-color:rgba(52,129,219,0.5);"></div>
+		<div class="container">
+		<div class="row">
+			<div class="col-md-8"><h2 class="page-title">The _____ Hospital</h2></div>
+			<div class="col-md-4">
+				<nav aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs"><ul class="trail-items"  ><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement"  itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="/DPC/index.php" rel="home"><span >Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement"  itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span >The ______ Hospital</span><meta itemprop="position" content="2" /></li></ul></nav>			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="csgve-mid-wrap padding-none csgve-full-width" style="">
 <div class="container csgve-content-area">
 	<div class="row">
 
 		<div class="col-md-12 csgve-primary csgve-page-wrap">
-			<div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-parallax="1.2" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1537861627177 vc_row-has-fill vc_row-o-equal-height vc_row-o-content-middle vc_row-flex vc_general vc_parallax vc_parallax-content-moving"><div class="csgve-overlay-pattern" style="background-color:rgba(0,0,0,0.25);"></div><div class="wpb_column vc_column_container text-left vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 120px" ><span class="vc_empty_space_inner"></span></div>
-<div class="info-title  csgve-title-61ad72d584d2b-about-chellaram-hospital">About Chellaram Hospital</div><p style="font-size: 18px;color: #ffffff;line-height: 26px;text-align: left;font-family:Open Sans;font-weight:400;font-style:normal" class="vc_custom_heading vc_custom_1537855626627" >Diabetes Care &amp; Multispeciality</p><a href="/our-doctors" class="csgve-btn  csgve-btn-61ad72d585220">Meet The Doctors</a><div class="vc_empty_space"   style="height: 120px" ><span class="vc_empty_space_inner"></span></div>
-</div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1511842336308"><div class="wpb_column vc_column_container text-default vc_col-sm-12 vc_col-lg-6 vc_col-md-6"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div  class="wpb_single_image wpb_content_element vc_align_left">
+			<div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted"><div class="wpb_column vc_column_container text-default vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="561" height="344" src="https://www.cdi.org.in/wp-content/uploads/2018/09/about.jpg" class="vc_single_image-img attachment-full" alt="" srcset="https://www.cdi.org.in/wp-content/uploads/2018/09/about.jpg 561w, https://www.cdi.org.in/wp-content/uploads/2018/09/about-300x184.jpg 300w" sizes="(max-width: 561px) 100vw, 561px" /></div>
-		</figure>
-	</div>
-</div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-12 vc_col-lg-6 vc_col-md-6"><div class="vc_column-inner "><div class="wpb_wrapper"><h2 style="font-size: 32px;color: #333333;line-height: 35px;text-align: left" class="vc_custom_heading" >Welcome to<br />
-Chellaram Hospital</h2><h4 style="font-size: 13px;color: #333333;text-align: left;font-family:Asap;font-weight:400;font-style:normal" class="vc_custom_heading" >Diabetes Care &amp; Multispeciality</h4><p style="font-size: 15px;color: #777777;text-align: left;font-family:Open Sans;font-weight:400;font-style:normal" class="vc_custom_heading" >Chellaram Hospital - Diabetes Care &amp; Multispeciality is a Unit of Chellaram Diabetes Institute. Since its inception, the hospital continues its focus on offering the best-in-class Diabetes care under one roof to its patients. Our expert Diabetologists leverage state-of-the-art diagnostic and interventional tools to provide both acute and long-term management of diabetes and its related complications. Recently, we have added the Multispecialty Care Program to our services. Our Multispecialty services include Opthalmology (Eye), Endocrinology (Glands), Dialysis and Nephrology (Kidney), Cardiology (Heart) and Podiatry (Foot). With our expanded services – Bariatric Surgery (for weight loss), Gastroenterology, General surgery, Orthopedics, ENT and Gynecology Services, Chellaram Hospital now provides comprehensive and end-to- end patient care under one roof.</p></div></div></div></div><div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted"><div class="wpb_column vc_column_container text-default vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p><strong>About Chellaram Diabetes Institute (CDI)</strong></p>
-<p>Chellaram Diabetes Institute, by focusing Research, Education, Awareness, Medical and Diagnostic facilities, is geared to create an impact on the alarming Diabetes scenario, by providing unique and state-of-the-art services under one roof</p>
-<p>We are also proud of our history of raising health and wellness awareness through community outreach programs and mobile health clinics. Our team of experts also conducts leading research in Endocrinology and contribute to the education of fellow health professionals through various training courses. As represented by our logo, at Chellaram Hospital, our patients continue to be at the center of all that we do and we look forward to the opportunity to serve you.</p>
-
-		</div>
-	</div>
-</div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1512632575537 vc_row-has-fill"><div class="wpb_column vc_column_container text-default vc_col-sm-4 vc_col-lg-4 vc_col-md-6"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div  class="wpb_single_image wpb_content_element vc_align_left">
-		
-		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="70" height="70" src="https://www.cdi.org.in/wp-content/uploads/2018/09/vision.png" class="vc_single_image-img attachment-full" alt="" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="320" height="409" src="img\loog.jpg" class="vc_single_image-img attachment-full" alt="" srcset="" sizes="(max-width: 320px) 100vw, 320px" /></div>
 		</figure>
 	</div>
 
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<h4>Vision</h4>
-<p>To understand the cause of the high prevalence of Diabetes among Indians, promote measures to prevent or delay the onset of Diabetes and thereby create a huge &amp; lasting impact on Diabetes in India and also globally.</p>
+			<h4 style="text-align: center;"><strong>The Name of the Founder</strong></h4>
+<p style="text-align: center;">date of life</p>
 
 		</div>
 	</div>
-</div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+</div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="info-title  csgve-title-61b6e35f0f114-the-chellaram-foundation info-title-uline">The Chellaram Foundation</div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea expedita soluta cum, laborum mollitia rem quasi dolore veniam sapiente temporibus doloremque accusamus praesentium sed deserunt provident nemo officiis quae iusto numquam fugit?</p>
+			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea expedita soluta cum, laborum mollitia rem quasi dolore veniam sapiente temporibus doloremque accusamus praesentium sed deserunt provident nemo officiis quae iusto numquam fugit?</p>
+			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea expedita soluta cum, laborum mollitia rem quasi dolore veniam sapiente temporibus doloremque accusamus praesentium sed deserunt provident nemo officiis quae iusto numquam fugit?</p>
+			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea expedita soluta cum, laborum mollitia rem quasi dolore veniam sapiente temporibus doloremque accusamus praesentium sed deserunt provident nemo officiis quae iusto numquam fugit?</p>
+			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea expedita soluta cum, laborum mollitia rem quasi dolore veniam sapiente temporibus doloremque accusamus praesentium sed deserunt provident nemo officiis quae iusto numquam fugit?</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted"><div class="wpb_column vc_column_container text-default vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><em>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, architecto tempora? Voluptas, culpa et. A esse unde quas, ipsum consequuntur delectus expedita quis ullam laborum. Ad sint est veniam. Dolore temporibus omnis nisi vel?</em></p>
+
+		</div>
+	</div>
+<h2 style="font-size: 18px;color: #333333;text-align: left" class="vc_custom_heading" >Lorem ipsum dolor sit amet.</h2>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio, in. Quibusdam ad consequuntur perspiciatis, excepturi aliquid fugit nulla numquam eveniet, temporibus praesentium nesciunt, voluptatibus vitae! Reprehenderit dolor molestiae autem reiciendis deleniti repellendus nemo velit?</p>
+		</div>
+	</div>
+<h2 style="font-size: 18px;color: #333333;text-align: left" class="vc_custom_heading" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quaerat consectetur voluptate.</h2>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est velit, excepturi harum dignissimos omnis eos quisquam voluptas. Impedit beatae sunt corrupti.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div  class="wpb_single_image wpb_content_element vc_align_left">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="70" height="70" src="https://www.cdi.org.in/wp-content/uploads/2018/09/mission.png" class="vc_single_image-img attachment-full" alt="" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="500" height="500" src="img\loog.jpg" class="vc_single_image-img attachment-full" alt=""  sizes="(max-width: 500px) 100vw, 500px" /></div>
 		</figure>
 	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h4>Mission</h4>
-<p>To  provide  High Quality Diabetes Care and related Multispecialty Services  through a Hospital  of High Standards  as well as  to make a positive  impact on Management / Prevention of Diabetes through Education, Research and Awareness initiatives.</p>
-
-		</div>
-	</div>
-</div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div  class="wpb_single_image wpb_content_element vc_align_left">
-		
-		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="72" height="72" src="https://www.cdi.org.in/wp-content/uploads/2018/09/apple-icon-72x72.png" class="vc_single_image-img attachment-full" alt="" /></div>
-		</figure>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h4>Significance of the Logo</h4>
-<p>Leaves in the logo represent life and the 2 hands provide absolute protection. The colour blue symbolizes strength, and shades of green signify health. CDI assures utmost protection and care to people suffering from Diabetes and helps them lead a healthy life.</p>
-
-		</div>
-	</div>
-</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1539586845898 vc_row-has-fill"><div class="wpb_column vc_column_container text-default vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="csgve-item status-item "><h2 class="csgve-counter" style="color:#ffffff;font-size:35px;">30000</h2><h5 class="status-title" style="color:#ffffff;">Satisfied Patients</h5></div></div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="csgve-item status-item "><h2 class="csgve-counter" style="color:#ffffff;font-size:35px;">15</h2><h5 class="status-title" style="color:#ffffff;">Health Departments</h5></div></div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="csgve-item status-item "><h2 class="csgve-counter" style="color:#ffffff;font-size:35px;">100</h2><h5 class="status-title" style="color:#ffffff;">Hospital Rooms</h5></div></div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="csgve-item status-item "><h2 class="csgve-counter" style="color:#ffffff;font-size:35px;">150</h2><h5 class="status-title" style="color:#ffffff;">Qualified Staffs</h5></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1539585334417 vc_row-has-fill"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner vc_custom_1511789080782"><div class="wpb_wrapper">
-  <div class="csgve-testimonials  testimonials-style-one">
-  <div class="container">
-    <div class="testimonials-wrap">
-      <div class="owl-carousel   csgve-testi-carousel-61ad72d588d93"  data-loop="true" data-items="1" data-margin="37" data-dots="true" data-mouse-drag="true" data-auto-height="true" data-items-tablet="2" data-items-mobile-landscape="1" data-items-mobile-portrait="1"> <!-- Carousel Starts -->
-
-          <div class="item">
-        <div class="csgve-image"></div>
-        <div class="author-info">
-          <p>Dear Doctor Unnikrishnan,</p>
-<p>Hope this finds you, your team and all your dear ones in the best of health &amp; happiness. If the medical fraternity is not super fit, what will the patients do? God bless you all.</p>
-<p>I resumed visiting you on 23rd January this year after nearly 5 years, as my HbA1c had reached 9 and my Triglycerides was at 869 and VLDL at 173.76.</p>
-<p>You monitored me very closely, with daily measurements of BSL, whilst putting me on a different pattern of medication till 8th February 2021.</p>
-<p>After that you trained me &amp; my wife to follow a certain protocol of Medicines, measurements, monitoring &amp; adjustments.</p>
-<p>We have followed the same meticulously.</p>
-<p>I got my diagnostics done on 29th April 2021.</p>
-<p>My HbA1c is 6.9, Triglycerides 292.9, VLDL 58.58.</p>
-<p>Shall send you the detailed report in the next email.</p>
-<p>My gratitude to you for your your professional help &amp; appreciation for your taking personal interest in my mindset of deep sadness due to some untoward social issues.</p>
-<p>You have all my medical records. If you feel that I need to change the medicines and/or dosages or the routine, please let me know. Given my comorbidities I am not offering to visit you. But if you feel it is a must, I shall brave it. If you want me to video/audio call you, I shall do the same at your convenient date &amp; time.</p>
-<p>Please do let me know the payment details. I shall transfer the amount promptly.</p>
-<p>With sincere regards,</p>
-<p>Prof PNN Iyer</p>
-<p>9326853214.</p>
-<p>&nbsp;</p>
-<p><em>The purpose of life is to lead a life with noble purposes</em></p>
-          <h4 class="testimonial-author"><span  class="testi-name">Prof PNN Iyer</span></h4>
-          <h5 class="author-designation"></h5>
-        </div>
-      </div>
-          <div class="item">
-        <div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/12/patient-2-183x183.jpg" alt=""></div>
-        <div class="author-info">
-          <p>Fantastic hospital, great staff. Being diabetic for many years , they did all what was required to save my life. Immensely dedicated Doctor who look after patient as a team  </p>
-          <h4 class="testimonial-author"><span  class="testi-name">Mr.Pascal Powell</span></h4>
-          <h5 class="author-designation"><span  class="testi-pro">Netherlands</span></h5>
-        </div>
-      </div>
-          <div class="item">
-        <div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/12/patient-1-183x183.jpg" alt=""></div>
-        <div class="author-info">
-          <p>Excellent consultants and medical care under whom I was treated. Very rare to find such focused team working towards diabetes and its complications. Always caring and concerned about my timely health conditions. Thanks to God and Chellaram hospital for taking such good care of health and myself. </p>
-          <h4 class="testimonial-author"><span  class="testi-name">Mr. Ibrahim Baba</span></h4>
-          <h5 class="author-designation"><span  class="testi-pro">Nigeria</span></h5>
-        </div>
-      </div>
-          <div class="item">
-        <div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/patient-183x183.jpg" alt=""></div>
-        <div class="author-info">
-          <div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p>Cardiac Ambulance service and staff handling emergency cardiac patient was fantastic. Well equipped hospital with excellent Doctors. I stay at Banner and feel lucky enough to have such a hospital near to us.</p>
-
-		</div>
-	</div>
 </div></div></div></div>
-          <h4 class="testimonial-author"><span  class="testi-name">Paul Joseph </span></h4>
-          <h5 class="author-designation"><span  class="testi-pro">Google Map</span></h5>
-        </div>
-      </div>
-          <div class="item">
-        <div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/patient-183x183.jpg" alt=""></div>
-        <div class="author-info">
-          <div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p>Excellent hospital with a very cooperative staff. Specially for diabetes patients. All the facilities provided are extremely good. Overall treatment and the environment of the hospital is very nice.</p>
-
-		</div>
-	</div>
-</div></div></div></div>
-          <h4 class="testimonial-author"><span  class="testi-name">Sumeet Deshmukh </span></h4>
-          <h5 class="author-designation"></h5>
-        </div>
-      </div>
-          <div class="item">
-        <div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/patient-183x183.jpg" alt=""></div>
-        <div class="author-info">
-          <div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p>One of the best medical facilities in the area. Helpful and competent staff available at all times. The diabetes centre has excellent doctors and nurses on call.</p>
-
-		</div>
-	</div>
-</div></div></div></div>
-          <h4 class="testimonial-author"><span  class="testi-name">Aman Dasgusta  </span></h4>
-          <h5 class="author-designation"><span  class="testi-pro">Google Map</span></h5>
-        </div>
-      </div>
-          <div class="item">
-        <div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/patient-183x183.jpg" alt=""></div>
-        <div class="author-info">
-          <div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p>Even after language barrier hospital has treated the patient in a friendly manner. Appreciate the efforts made by the staff and i will recommend high for this hospital. (Y)</p>
-
-		</div>
-	</div>
-</div></div></div></div>
-          <h4 class="testimonial-author"><span  class="testi-name">Ashish Ranjan  </span></h4>
-          <h5 class="author-designation"><span  class="testi-pro">Facebook Review</span></h5>
-        </div>
-      </div>
-          <div class="item">
-        <div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/patient-183x183.jpg" alt=""></div>
-        <div class="author-info">
-          <div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p>Hello everyone, Resp. Doctors n all staff, we are very thankful to all of you for every help &amp; Service we received. Specially to mention, cooperation by all the doctors &amp; reception staff &amp; cleanliness maintained at every corner of the hospital.</p>
-
-		</div>
-	</div>
-</div></div></div></div>
-          <h4 class="testimonial-author"><span  class="testi-name">Pankaja Khanzode   </span></h4>
-          <h5 class="author-designation"><span  class="testi-pro">Facebook Review</span></h5>
-        </div>
-      </div>
-          <div class="item">
-        <div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/patient-183x183.jpg" alt=""></div>
-        <div class="author-info">
-          <div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p>I was admitted for Dengue in Chellaram Diabetes Hospital from 28th Nov &#8211; 1st Dec &#8217;15. The treatment was very prompt by the efficient team of Doctors and their support staff. My parents too have been associated to this hospital right from its beginning and they too have had a very good experience</p>
-
-		</div>
-	</div>
-</div></div></div></div>
-          <h4 class="testimonial-author"><span  class="testi-name">Prasenjit Mishra  </span></h4>
-          <h5 class="author-designation"><span  class="testi-pro">Facebook Review</span></h5>
-        </div>
-      </div>
-          <div class="item">
-        <div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/patient-183x183.jpg" alt=""></div>
-        <div class="author-info">
-          <div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p>I visited for the first time to CH in 2012, when my sugar was alarmingly high to an extent that the glucometer did not give the readings.</p>
-<p>Since then I have been regularly visiting this hospital .Dr.Unnikriashnan and his staff are counsellor -doctors, they always treat their patients with utmost care and listen to their problems..They do not miss out a single symptom and work on each and every problem area..Iam truly glad and filled with gratitude, you are my angels &#8230;Thank you Chellaram and Dr.Unnikrishnan..</p>
-
-		</div>
-	</div>
-</div></div></div></div>
-          <h4 class="testimonial-author"><span  class="testi-name">Anushree Dixit Runjhun  </span></h4>
-          <h5 class="author-designation"><span  class="testi-pro">Facebook Review</span></h5>
-        </div>
-      </div>
-          <div class="item">
-        <div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/patient-183x183.jpg" alt=""></div>
-        <div class="author-info">
-          <div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p>I am very much happy about service and surely I am going to suggest this hospital to my friend and relatives. Thank You.</p>
-
-		</div>
-	</div>
-</div></div></div></div>
-          <h4 class="testimonial-author"><span  class="testi-name">Gajana L Hanchate </span></h4>
-          <h5 class="author-designation"><span  class="testi-pro">IPD Feedback</span></h5>
-        </div>
-      </div>
-          <div class="item">
-        <div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/patient-183x183.jpg" alt=""></div>
-        <div class="author-info">
-          <div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p>All the doctors are very knowledgeable and experienced. The main thing I liked is that, there approach is not commercial but for the benefit of patient. Really very good team of doctors.</p>
-
-		</div>
-	</div>
-</div></div></div></div>
-          <h4 class="testimonial-author"><span  class="testi-name">Anant G Pastekar</span></h4>
-          <h5 class="author-designation"><span  class="testi-pro">IPD Feedback</span></h5>
-        </div>
-      </div>
-    
-    </div> <!-- Carousel End -->
-    </div>
-    </div>
-  </div> <!-- Testimonial End -->
-
-</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div>
 		</div><!-- Content Area -->
 			</div>
 </div>
 </div>
 
+<?php include 'footer.php' ?>
 
-	<!-- Footer -->
-			<footer class="csgve-footer">
-	    <!-- Footer Widgets -->
-<div class="container">
-	<div class="row">
-		<div class="col-md-3 col-sm-6"><div class=" csgve-widget widget_media_image footer-item"><img width="114" height="114" src="https://www.cdi.org.in/wp-content/uploads/2018/09/apple-icon-114x114.png" class="image wp-image-3089  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://www.cdi.org.in/wp-content/uploads/2018/09/apple-icon-114x114.png 114w, https://www.cdi.org.in/wp-content/uploads/2018/09/apple-icon-114x114-100x100.png 100w" sizes="(max-width: 114px) 100vw, 114px" /><div class="clear"></div></div> <!-- end widget --><div class=" csgve-widget vt-text-widget footer-item"><h4 class="column-title">About Chellaram Hospital- Diabetes Care &#038; Multispeciality</h4>Chellaram Hospital- Diabetes Care & Multispeciality, a unit of Chellaram Foundation, is a Not-for-Profit Institute based in Pune.
-<div class="csgve-btn-group  csgve-main-btn-61ad72d58dff5">
-              <a href="https://www.cdi.org.in/overview/"  class="csgve-btn">Read More</a>
-            </div>
-<div class="clear"></div></div> <!-- end widget --></div><div class="col-md-3 col-sm-6"><div class=" csgve-widget vt-text-widget footer-item"><h4 class="column-title">Quick Links</h4><ul class="csgve-useful-links  full-width"><li><a href="/overview/">About Us</a></li>
-
-<li><a href="/our-doctors/">Our Doctor</a></li>
-
-<li><a href="/aim-objectives/">Research</a></li>
-
-<li><a href="/courses-for-doctors/">Academics</a></li>
-
-<li><a href="/news-events/">News & Events</a></li>
-
-<li><a href="/contact-us/">Contact Us</a></li>
-
-<li><a href="/careers/">Careers</a></li>
-
-
-<li><a href="#"> </a></li>
-
-
-<li><a href="/privacy-policy/">Privacy Policy</a></li>
-
-<li><a href="/terms-and-conditions/">Terms & Conditions</a></li>
-
-<li><a href="https://www.cdi.org.in/cancellation-refund-policy/">Refund Policy</a></li>
-
-</ul>
-
-
-<div class="clear"></div></div> <!-- end widget --></div><div class="col-md-3 col-sm-6"><div class=" csgve-widget widget_media_image footer-item"><h4 class="column-title">Diabetes Health Magazine</h4><a href="http://www.diabeteshealth.co.in" target="_blank"><img width="229" height="300" src="https://www.cdi.org.in/wp-content/uploads/2020/12/dec20-jan21-229x300.jpg" class="image wp-image-7418  attachment-medium size-medium" alt="Best Multispeciality Hospital in Pune" style="max-width: 100%; height: auto;" title="Diabetes Health Magazine" /></a><div class="clear"></div></div> <!-- end widget --><div class=" csgve-widget vt-text-widget footer-item"><a href="http://www.diabeteshealth.co.in/" target="_blank" class=" csgve-simple-link-61ad72d58e661">View Details</a>
-
-<div class="clear"></div></div> <!-- end widget --><div class=" csgve-widget vt-text-widget footer-item"><a href="https://www.magzter.com/IN/Chellaram-Foundation/Diabetes-Health/Lifestyle/" target="_blank" class=" csgve-simple-link-61ad72d58e6d4">Diabetes Health Digital Magazine</a><div class="clear"></div></div> <!-- end widget --></div><div class="col-md-3 col-sm-6"><div class=" csgve-widget vt-text-widget footer-item"><h4 class="column-title">Contact Details</h4><div class="bullet-list contact-details-wrap  csgve-list-61ad72d58e821">
-              <p>1st Floor, Lalani Quantum, Bavdhan Budruk, Pune-411021</p>
-              <ul><li><i class="fa fa-phone" aria-hidden="true"></i> Tell <a href="tel:020 66839 777 / 877" >020 66839 777 / 877</a></li><li><i class="fa fa-envelope-o" aria-hidden="true"></i> Email <a href="mailto:mail@cdi.org.in" >mail@cdi.org.in</a></li><li><i class="fa fa-globe" aria-hidden="true"></i> Website <a href="http://cdi.org.in/" target="_blank">cdi.org.in</a></li></ul></div>
-<div class="csgve-btn-group  csgve-main-btn-61ad72d58e8c9">
-              <a href="https://goo.gl/maps/YvdtAT317L82"  class="csgve-btn">Get Map Direction<i class="fa fa-long-arrow-right"></i></a>
-            </div><div class="clear"></div></div> <!-- end widget --></div>	</div>
-</div>
-<!-- Footer Widgets -->		</footer>
-		<!-- Footer -->
-
-<!-- Copyright Bar -->
-<div class="csgve-copyright">
-	<div class="container">
-		<div class="col-sm-12 aligncenter">
-			© All Rights Reserved. Chellaram Hospital- Diabetes Care &amp; Multispeciality 2018.
-<div class="csgve-social  csgve-socials-61ad72d58eae1"><a href="https://www.facebook.com/ChellaramHospital?ref=hl" target="_blank" class="icon-fa-facebook-square"><i class="fa fa-facebook-square"></i></a><a href="https://www.youtube.com/channel/UCSZMucsfdUG-uaA3DLWpuaQ" target="_blank" class="icon-fa-youtube-play"><i class="fa fa-youtube-play"></i></a><a href="https://twitter.com/Chellaram_Hosp" target="_blank" class="icon-fa-twitter"><i class="fa fa-twitter"></i></a></div>
-		</div>
-			</div>
-</div>
-<!-- Copyright Bar -->
 <!-- Csgve Back Top -->
 <div class="csgve-back-top">
 	<a href="#0"><i class="fa fa-angle-up" aria-hidden="true"></i></a>

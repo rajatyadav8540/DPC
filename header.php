@@ -58,7 +58,7 @@
 
 </head>
   <body>
-      <?php require 'common.php' ?>
+      <!-- <?php require 'common.php' ?> -->
 
 
 	  <header>
