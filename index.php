@@ -368,6 +368,8 @@ ul.job_listings li.job_listing a .meta {
 	<div class="row">
 
 		<div class="col-md-12 csgve-primary csgve-page-wrap">
+
+
 			<div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted"><div class="wpb_column vc_column_container text-default vc_col-sm-12 vc_hidden-lg vc_hidden-md vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
@@ -375,7 +377,10 @@ ul.job_listings li.job_listing a .meta {
 
 		</div>
 	</div>
-</div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_row-no-padding"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="swiper-container swiper-style-two fadeslides keyboard cosgrove-slider-61a81edfc074a   hide-arrows" data-autoplay="true" style=height:500px><div class="swiper-wrapper"><div class="swiper-slide " style="background-image: url(https://www.cdi.org.in/wp-content/uploads/2020/07/slide-a-new48.jpg);">
+</div></div></div></div>
+
+
+<div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_row-no-padding"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="swiper-container swiper-style-two fadeslides keyboard cosgrove-slider-61a81edfc074a   hide-arrows" data-autoplay="true" style=height:500px><div class="swiper-wrapper"><div class="swiper-slide " style="background-image: url(https://www.cdi.org.in/wp-content/uploads/2020/07/slide-a-new48.jpg);">
                     <div class="csgve-slide-cpation">
                       <div class="csgve-table-wrap">
                         <div class="csgve-align-wrap">
@@ -393,164 +398,30 @@ ul.job_listings li.job_listing a .meta {
                             <div class="cpation-wrap"><h2 class="cpation-title animated" data-animation="none">ADVANCED CARDIAC CARE</h2><p class="animated" data-animation="none">ANGIOGRAPHY AND ANGIOPLASTY</p><div class="csgve-btn-group"></div></div></div></div></div></div></div></div><div class="swiper-button-prev"></div><div class="swiper-button-next"></div></div><div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
 </div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1539582869330 vc_row-has-fill"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">    <div class="csgve-doctors doctors-style-three doctor-slider-style doctor-style-one csgve-doct-61a81edfc1368 ">
     <div class="section-title-wrap"><h2 class="section-title">Book Online Consultation</h2></div>      <div class="owl-carousel carousel-style-two"  data-loop="false" data-items="4" data-margin="29"data-dots="true"data-nav="true" data-autoplay="true" data-mouse-drag="true" data-auto-height="true" data-items-tablet="2" data-items-mobile-landscape="1" data-items-mobile-portrait="1">
-          <div class="item">
+         
+      
+      <div class="item">
               <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-a-g-unnikrishnan/"><img src="https://www.cdi.org.in/wp-content/uploads/2017/10/Dr-AG-Unnikrishnan-thumb-1-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
+                    <div class="csgve-image"><a href="#"><img src="img/loog.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
                </div>
           
           <div class="doctor-info">
             <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-a-g-unnikrishnan/">Dr. A. G. Unnikrishnan</a></h4>
+              <h4 class="doctor-name"><a href="#">Dr. A. G. Unnikrishnan</a></h4>
               <h5 class="doctor-designation">Endocrinologist/Diabetologist</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-a-g-unnikrishnan/">Book an Appointment</a></div>
+                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="#">Book an Appointment</a></div>
                           </div>
                            <div class="doctor-contact-info">
                             </div>
                                   </div>
         </div>
       </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/vbp/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/vbs-thumb-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/vbp/">Dr. Vedavati Purandare</a></h4>
-              <h5 class="doctor-designation">Physician and Diabetologist</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/vbp/">Book An Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> Mon - Sat ( 10:00 AM - 3:30 PM )</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/3974-2/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/Dr-Abhay-Khode-thumb-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/3974-2/">Dr. Abhay Khode</a></h4>
-              <h5 class="doctor-designation">Cardiologist</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/3974-2/">Book an Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <a href="mailto:cardiology@cdi.org.in">                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>cardiology@cdi.org.in</span>                               </a>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> Mon - Sat ( 10 AM - 12 PM )</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/rutuja-mahajan/"><img src="https://www.cdi.org.in/wp-content/uploads/2019/11/Rutuja2-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/rutuja-mahajan/">Rutuja Mahajan</a></h4>
-              <h5 class="doctor-designation">Clinical Nutritionist</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/rutuja-mahajan/">Book an Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> Mon, Wed, Fri ( 11:00 AM - 1:00 PM )</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-manish-bothale/"><img src="https://www.cdi.org.in/wp-content/uploads/2021/03/DrManish-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-manish-bothale/">Dr. Manish Bothale</a></h4>
-              <h5 class="doctor-designation">Diabetologist</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-manish-bothale/">Book an Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> Mon - Sat (9:00 AM to 5:00 PM)</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-savita-bhat-2/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/savita-bhut-thumb.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-savita-bhat-2/">Dr. Savita Bhat</a></h4>
-              <h5 class="doctor-designation">Ophthalmologist/ Eye Surgeon</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-savita-bhat-2/">Book An Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>Wed,Fri (9:30AM to 1:00PM)</span>                               </span>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> Mon,Tue,Thu,Sat (9:30AM to 5:30PM)</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-suganthi-kumaran-2/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/DrSuganthi-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-suganthi-kumaran-2/">Dr. Suganthi Kumaran</a></h4>
-              <h5 class="doctor-designation">Internal Medicine</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-suganthi-kumaran-2/">Book An Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> Mon - Sat ( 9:00 AM - 5:30 PM )</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-ashootosh-pakale/"><img src="https://www.cdi.org.in/wp-content/uploads/2017/09/DrAshutoshP2-1-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-ashootosh-pakale/">Dr. Ashutosh Pakale</a></h4>
-              <h5 class="doctor-designation">Consultant Physcian</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-ashootosh-pakale/">Book an Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                        </div>
-                                  </div>
-        </div>
-      </div>
+         
+    
     </div>    </div>
     <!-- Doctors End -->
 
-    <a href="https://www.cdi.org.in/online-consultation/" class="csgve-btn  csgve-btn-61a81edfc34e9">Click Here to know more about Online Consultation</a></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1585379009902"><div class="wpb_column vc_column_container text-default vc_col-sm-12 vc_col-lg-4 vc_col-md-4"><div class="vc_column-inner vc_custom_1512208736295"><div class="wpb_wrapper"><div class="info-title  csgve-title-61a81edfc39b9-welcome-to-chellaram-hospital">Welcome to Chellaram Hospital</div><h4 style="font-size: 16px;color: #333333;text-align: left" class="vc_custom_heading vc_custom_1611239468135" >Diabetes Care &amp; Multispeciality</h4><p style="font-size: 15px;text-align: left" class="vc_custom_heading vc_custom_1542704321026" >Chellaram Hospital with integrated multispecialty services is a Hospital offering state of the art infrastructure and world class treatments dedicated to diabetes and various specialties in the healthcare sector.</p><a href="/overview" class="csgve-btn  csgve-btn-61a81edfc3fd3">Read More</a></div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-12 vc_col-lg-8 vc_col-md-8"><div class="vc_column-inner vc_custom_1512208744055"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="csgve-facilities facilities-style-two csgve-facilities-61a81edfc47a6 ">
+    <a href="#" class="csgve-btn  csgve-btn-61a81edfc34e9">Click Here to know more about Online Consultation</a></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1585379009902"><div class="wpb_column vc_column_container text-default vc_col-sm-12 vc_col-lg-4 vc_col-md-4"><div class="vc_column-inner vc_custom_1512208736295"><div class="wpb_wrapper"><div class="info-title  csgve-title-61a81edfc39b9-welcome-to-chellaram-hospital">Welcome to xxxxx Hospital</div><h4 style="font-size: 16px;color: #333333;text-align: left" class="vc_custom_heading vc_custom_1611239468135" >Diabetes Care &amp; Multispeciality</h4><p style="font-size: 15px;text-align: left" class="vc_custom_heading vc_custom_1542704321026" >xxxx Hospital with integrated multispecialty services is a Hospital offering state of the art infrastructure and world class treatments dedicated to diabetes and various specialties in the healthcare sector.</p><a href="/overview" class="csgve-btn  csgve-btn-61a81edfc3fd3">Read More</a></div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-12 vc_col-lg-8 vc_col-md-8"><div class="vc_column-inner vc_custom_1512208744055"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="csgve-facilities facilities-style-two csgve-facilities-61a81edfc47a6 ">
 
                 <div class="csgve-item facilities-item">
 
@@ -570,7 +441,7 @@ ul.job_listings li.job_listing a .meta {
 
                 <div class="csgve-item facilities-item">
 
-                  <div class="csgve-icon"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/health-package.jpg" alt=""></div>
+                  <div class="csgve-icon"><img src="#" alt=""></div>
 
                   <div class="facilities-info"><h4 class="facilities-title"><a href="/health-packages" >Health Packages</a></h4><p>We offer health packages based on your health needs...</p><div class="view-details"><a href="/health-packages" > View Details</a></div>
 
@@ -588,7 +459,7 @@ ul.job_listings li.job_listing a .meta {
 
                   <div class="csgve-icon"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/diagnostic.jpg" alt=""></div>
 
-                  <div class="facilities-info"><h4 class="facilities-title"><a href="https://diagnostic-services.cdi.org.in/"  target="_blank">Diagnostic Services</a></h4><p>We offer comprehensive services for Pathology for cause and nature...</p><div class="view-details"><a href="https://diagnostic-services.cdi.org.in/"  target="_blank"> View Details</a></div>
+                  <div class="facilities-info"><h4 class="facilities-title"><a href="#"  target="_blank">Diagnostic Services</a></h4><p>We offer comprehensive services for Pathology for cause and nature...</p><div class="view-details"><a href="#"  target="_blank"> View Details</a></div>
 
                   </div>
 
@@ -615,491 +486,44 @@ ul.job_listings li.job_listing a .meta {
 
 
               </div></div></div></div></div></div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1585296958802 vc_row-no-padding"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner vc_custom_1511943142555"><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_custom_1511943114305  vc_custom_1511943114305" ><span class="vc_sep_holder vc_sep_holder_l"><span  style="border-color:#eeeeee;" class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  style="border-color:#eeeeee;" class="vc_sep_line"></span></span>
-</div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1539582869330 vc_row-has-fill"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">    <div class="csgve-doctors doctors-style-three doctor-slider-style doctor-style-one csgve-doct-61a81edfc5d9d ">
+</div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div>
+
+
+<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1539582869330 vc_row-has-fill"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">    <div class="csgve-doctors doctors-style-three doctor-slider-style doctor-style-one csgve-doct-61a81edfc5d9d ">
     <div class="section-title-wrap"><h2 class="section-title">Meet Our Doctors</h2></div>      <div class="owl-carousel carousel-style-two"  data-loop="false" data-items="4" data-margin="29"data-dots="true"data-nav="true" data-autoplay="true" data-mouse-drag="true" data-auto-height="true" data-items-tablet="2" data-items-mobile-landscape="1" data-items-mobile-portrait="1">
-          <div class="item">
+         
+      
+      <div class="item">
               <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-a-g-unnikrishnan/"><img src="https://www.cdi.org.in/wp-content/uploads/2017/10/Dr-AG-Unnikrishnan-thumb-1-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
+                    <div class="csgve-image"><a href="#"><img src="https://www.cdi.org.in/wp-content/uploads/2017/10/Dr-AG-Unnikrishnan-thumb-1-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
                </div>
           
           <div class="doctor-info">
             <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-a-g-unnikrishnan/">Dr. A. G. Unnikrishnan</a></h4>
+              <h4 class="doctor-name"><a href="#">Dr. A. G. Unnikrishnan</a></h4>
               <h5 class="doctor-designation">Endocrinologist/Diabetologist</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-a-g-unnikrishnan/">Book an Appointment</a></div>
+                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="#">Book an Appointment</a></div>
                           </div>
                            <div class="doctor-contact-info">
                             </div>
                                   </div>
         </div>
       </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/3974-2/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/Dr-Abhay-Khode-thumb-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/3974-2/">Dr. Abhay Khode</a></h4>
-              <h5 class="doctor-designation">Cardiologist</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/3974-2/">Book an Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <a href="mailto:cardiology@cdi.org.in">                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>cardiology@cdi.org.in</span>                               </a>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> Mon - Sat ( 10 AM - 12 PM )</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-aditi-bopche/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/11/DrAditi-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-aditi-bopche/">Dr. Aditi Bopche</a></h4>
-              <h5 class="doctor-designation">Dermatologist</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-aditi-bopche/">Book An Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> Mon - Sat ( 4:30 PM - 5:30 PM )</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-aditya-y/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/Dr-Aditya-thumb-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-aditya-y/">Dr. Aditya Yeolekar</a></h4>
-              <h5 class="doctor-designation">ENT</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-aditya-y/">Call For Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                        </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-amrish-bidaye/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/11/Dr_Amrish4-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-amrish-bidaye/">Dr. Amrish Bidaye</a></h4>
-              <h5 class="doctor-designation">Diabetic Foot Surgeon</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-amrish-bidaye/">Call For Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                        </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-aniket-gadre-2/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/Dr-Aniket-Gadre-thumb-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-aniket-gadre-2/">Dr. Aniket Gadre</a></h4>
-              <h5 class="doctor-designation">Cardiologist</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-aniket-gadre-2/">Book An Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <a href="mailto:cardiology@cdi.org.in">                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>cardiology@cdi.org.in</span>                               </a>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> Mon - Sat (12:00 PM - 3:00 PM )</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-hrishikesh-deshmukh/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/Dr-Hrishikesh-Deshmukh-thumb-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-hrishikesh-deshmukh/">Dr. Hrishikesh Deshmukh</a></h4>
-              <h5 class="doctor-designation">Urologist</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-hrishikesh-deshmukh/">Call For Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                        </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-mugdha-joshi/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/mugda-1-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-mugdha-joshi/">Dr. Mugdha Joshi</a></h4>
-              <h5 class="doctor-designation">Gynecologist</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-mugdha-joshi/">Book An Appoinment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> On - Call</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-neeraj-rayate/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/Dr-Neeraj-Rayate-thumb-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-neeraj-rayate/">Dr. Neeraj Rayate</a></h4>
-              <h5 class="doctor-designation">Bariatric/General Surgeon</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-neeraj-rayate/">Call For Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                        </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-nikita-morwal/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/12/NikitaMorwal2-270x220.jpg" alt="Dr. NikitaMorwal2"></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-nikita-morwal/">Dr. Nikita Morwal</a></h4>
-              <h5 class="doctor-designation">Physiotherapist</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-nikita-morwal/">Book An Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                            </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-pradeep-chopade/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/11/Dr_Pradip_chopade2-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-pradeep-chopade/">Dr. Pradip Chopade</a></h4>
-              <h5 class="doctor-designation">Orthopedic Surgeon</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-pradeep-chopade/">Book An Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> Mon - Tue, Thu - Sat ( 9:00 AM- 11:30 AM)</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-r-nagarajan-2/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/11/Dr.-R.Nagarajan-thumb-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-r-nagarajan-2/">Dr. R Nagarajan</a></h4>
-              <h5 class="doctor-designation">Endocrine Surgeon</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-r-nagarajan-2/">Call For Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> On - Call</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-rajiv-sethi/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/rajiv-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-rajiv-sethi/">Dr. Rajiv Sethi</a></h4>
-              <h5 class="doctor-designation">Cardiologist</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-rajiv-sethi/">Book An Appoinment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <a href="mailto:cardiology@cdi.org.in">                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>cardiology@cdi.org.in</span>                               </a>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> Wed, Fri ( 12:00 PM - 3:00 PM )</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-ranjit-patil/"><img src="https://www.cdi.org.in/wp-content/uploads/2017/10/dr-ranjit-patil-thumb-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-ranjit-patil/">Dr. Ranjeet Patil</a></h4>
-              <h5 class="doctor-designation">Cardiologist</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-ranjit-patil/">Book an Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <a href="mailto:cardiology@cdi.org.in">                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>cardiology@cdi.org.in</span>                               </a>              </div>
-                          <div class="doctor-contact-item">
-                <a href="tel:">                                                    <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> Mon - Sat ( 1:00 PM - 3:00 PM )</span>               </a>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-ravindra-j-panse/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/Dr-panse-thumb-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-ravindra-j-panse/">Dr. Ravindra J Panse</a></h4>
-              <h5 class="doctor-designation">Diabetic Foot Surgeon</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-ravindra-j-panse/">Call For Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                            </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-sandeep-kulkarni/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/11/Dr.-Sandeep-Kulkarni-thumb-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-sandeep-kulkarni/">Dr. Sandeep Kulkarni</a></h4>
-              <h5 class="doctor-designation">Gastroenterologist</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-sandeep-kulkarni/">Book An Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> On - Call</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-satish-pattanshetti/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/dr-satish-pattanshetti-e1544092530898-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-satish-pattanshetti/">Dr. Satish Pattanshetti</a></h4>
-              <h5 class="doctor-designation">Laparoscopic/General Surgeon</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-satish-pattanshetti/">Call For Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                        </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-savita-bhat-2/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/savita-bhut-thumb.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-savita-bhat-2/">Dr. Savita Bhat</a></h4>
-              <h5 class="doctor-designation">Ophthalmologist/ Eye Surgeon</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-savita-bhat-2/">Book An Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>Wed,Fri (9:30AM to 1:00PM)</span>                               </span>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> Mon,Tue,Thu,Sat (9:30AM to 5:30PM)</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-shantanu-deshpande/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/Dr-Shantanu-Deshpande-thumb-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-shantanu-deshpande/">Dr. Shantanu Deshpande</a></h4>
-              <h5 class="doctor-designation">Orthopedic Surgeon</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-shantanu-deshpande/">Call For Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> On - Call</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-shardul-date/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/Dr-Shardul-Date-thumb-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-shardul-date/">Dr. Shardul Date</a></h4>
-              <h5 class="doctor-designation">Vascular Surgeon</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-shardul-date/">Book An Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> On - Call</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-suganthi-kumaran-2/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/DrSuganthi-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-suganthi-kumaran-2/">Dr. Suganthi Kumaran</a></h4>
-              <h5 class="doctor-designation">Internal Medicine</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-suganthi-kumaran-2/">Book An Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> Mon - Sat ( 9:00 AM - 5:30 PM )</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-swaraj-sathe/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/11/DrSathe2-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-swaraj-sathe/">Dr. Swaraj Sathe</a></h4>
-              <h5 class="doctor-designation">Orthopedic Surgeon</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-swaraj-sathe/">Call For Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> On - Call</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-uday-pote/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/11/DrPote2-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-uday-pote/">Dr. Uday Pote</a></h4>
-              <h5 class="doctor-designation">Orthopedic,spine surgeon </h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-uday-pote/">Call For Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> Mon - Sat ( 4:00 PM - 6:00 PM )</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/vbp/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/vbs-thumb-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/vbp/">Dr. Vedavati Purandare</a></h4>
-              <h5 class="doctor-designation">Physician and Diabetologist</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/vbp/">Book An Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> Mon - Sat ( 10:00 AM - 3:30 PM )</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
-          <div class="item">
-              <div class="csgve-item doctors-item">
-                    <div class="csgve-image"><a href="https://www.cdi.org.in/doctor/dr-vinil-shinde/"><img src="https://www.cdi.org.in/wp-content/uploads/2018/11/DrVinil-270x220.jpg" alt=""></a>              <div class="icon-trigger"><span></span></div>
-               </div>
-          
-          <div class="doctor-info">
-            <div class="doctor-bg-change">
-              <h4 class="doctor-name"><a href="https://www.cdi.org.in/doctor/dr-vinil-shinde/">Dr. Vinil Shinde</a></h4>
-              <h5 class="doctor-designation">Orthopedic Surgeon</h5>
-                            <div class="csgve-btn-group medic-button"><a class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="https://www.cdi.org.in/doctor/dr-vinil-shinde/">Book An Appointment</a></div>
-                          </div>
-                           <div class="doctor-contact-info">
-                              <div class="doctor-contact-item">
-              <span>                                 <span class="hover-icon-mail"><i class="fa fa-envelope-o" aria-hidden="true"></i>reception@cdi.org.in</span>                               </span>              </div>
-                          <div class="doctor-contact-item">
-              <span>                                                   <span class="hover-icon-phone"><i class="fa fa-phone" aria-hidden="true"></i> On - Call</span>               </span>              </div>
-                             </div>
-                                  </div>
-        </div>
-      </div>
+
     </div>    </div>
     <!-- Doctors End -->
 
-    </div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_row-no-padding"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner vc_custom_1511943142555"><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_custom_1511943114305  vc_custom_1511943114305" ><span class="vc_sep_holder vc_sep_holder_l"><span  style="border-color:#eeeeee;" class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  style="border-color:#eeeeee;" class="vc_sep_line"></span></span>
-</div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1539583097745"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner vc_custom_1511943578802"><div class="wpb_wrapper">
+    </div></div></div></div>
+    
+    
+    <div class="vc_row-full-width vc_clearfix"></div>
+    <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_row-no-padding"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner vc_custom_1511943142555"><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_custom_1511943114305  vc_custom_1511943114305" ><span class="vc_sep_holder vc_sep_holder_l"><span  style="border-color:#eeeeee;" class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  style="border-color:#eeeeee;" class="vc_sep_line"></span></span>
+</div></div></div></div></div>
+
+
+<div class="vc_row-full-width vc_clearfix"></div>
+<!-- blogs section -->
+<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1539583097745"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner vc_custom_1511943578802"><div class="wpb_wrapper">
     <!-- Blog Start -->
     <div class="csgve-news csgve-post-61a81edfcc09a   news-style-one" >
               <div class="section-title-wrap">
@@ -1107,7 +531,7 @@ ul.job_listings li.job_listing a .meta {
         </div>
                 <div class="more-news"><a href="/news-events" class="csgve-btn csgve-small-btn csgve-gray-border-btn">More News</a></div>
                 <div class="row">
-      
+<!--       
       
       <div class="col-md-3 col-sm-6">
       <div id="post-8261" class="csgve-blog-post post-8261 post type-post status-publish format-standard has-post-thumbnail hentry category-treatment">
@@ -1127,7 +551,7 @@ ul.job_listings li.job_listing a .meta {
             </div>
           
         </div>
-      </div><!-- #post-## -->
+      </div>
       </div>
 
     
@@ -1149,7 +573,7 @@ ul.job_listings li.job_listing a .meta {
             </div>
           
         </div>
-      </div><!-- #post-## -->
+      </div>
       </div>
 
     
@@ -1171,7 +595,7 @@ ul.job_listings li.job_listing a .meta {
             </div>
           
         </div>
-      </div><!-- #post-## -->
+      </div>
       </div>
 
     
@@ -1193,16 +617,29 @@ ul.job_listings li.job_listing a .meta {
             </div>
           
         </div>
-      </div><!-- #post-## -->
       </div>
+      </div> -->
 
         </div>
     
     </div>
         <!-- Blog End -->
 
-    </div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_row-no-padding"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner vc_custom_1511943142555"><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_custom_1511943114305  vc_custom_1511943114305" ><span class="vc_sep_holder vc_sep_holder_l"><span  style="border-color:#eeeeee;" class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  style="border-color:#eeeeee;" class="vc_sep_line"></span></span>
-</div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1620024990049"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="info-title  csgve-title-61a81edfd2052-specialties info-title-uline">Specialties</div></div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-12 vc_col-lg-9 vc_col-md-9"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="csgve-facilities csgve-facilities-61a81edfd2456 ">
+    </div></div></div></div>
+    
+    
+    <div class="vc_row-full-width vc_clearfix"></div>
+    
+    <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_row-no-padding"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner vc_custom_1511943142555"><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_custom_1511943114305  vc_custom_1511943114305" ><span class="vc_sep_holder vc_sep_holder_l"><span  style="border-color:#eeeeee;" class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  style="border-color:#eeeeee;" class="vc_sep_line"></span></span>
+</div></div></div></div></div>
+
+
+<div class="vc_row-full-width vc_clearfix"></div>
+
+<div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1620024990049"><div class="wpb_column vc_column_container text-default vc_col-sm-12">
+
+  <div class="vc_column-inner "><div class="wpb_wrapper"><div class="info-title  csgve-title-61a81edfd2052-specialties info-title-uline">Specialties</div></div></div>
+</div><div class="wpb_column vc_column_container text-default vc_col-sm-12 vc_col-lg-9 vc_col-md-9"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="csgve-facilities csgve-facilities-61a81edfd2456 ">
 
                 <div class="csgve-item facilities-item">
 
@@ -1298,14 +735,20 @@ ul.job_listings li.job_listing a .meta {
 
 
 
-              </div></div></div></div></div></div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-12 vc_col-lg-3 vc_col-md-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="departments-wrap  csgve-nav-61a81edfd39c3"><h4 class="department-wrap-title">Specialties</h4><ul><li><a href="department/endocrinology/">Endocrinology</a></li><li><a href="department/ophthalmology/">Ophthalmology</a></li><li><a href="department/general-surgery/">General Surgery</a></li><li><a href="/department/podiatry/">Podiatry</a></li><li><a href="/department/physiotherapy-yoga/">Physiotherapy/Yoga</a></li><li><a href="department/nutrition/">Nutrition</a></li></ul><div class="csgve-btn-group"><a href="/specialties" class="csgve-btn csgve-medium-btn csgve-green-btn">View All Specialities</a></div></div></div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-parallax="2" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1547112084062 vc_row-has-fill vc_general vc_parallax vc_parallax-content-moving"><div class="csgve-overlay-pattern" style="background-color:rgba(1,24,45,0.5);"></div><div class="wpb_column vc_column_container text-default vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="csgve-item status-item "><h2 class="csgve-counter" style="color:#ffffff;">30100</h2><h5 class="status-title" style="color:#ffffff;">Satisfied Patients</h5></div></div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="csgve-item status-item "><h2 class="csgve-counter" style="color:#ffffff;">15</h2><h5 class="status-title" style="color:#ffffff;">Health Departments</h5></div></div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="csgve-item status-item "><h2 class="csgve-counter" style="color:#ffffff;">97</h2><h5 class="status-title" style="color:#ffffff;">Hospital Rooms</h5></div></div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="csgve-item status-item "><h2 class="csgve-counter" style="color:#ffffff;">142</h2><h5 class="status-title" style="color:#ffffff;">Qualified Staffs</h5></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1590651482753"><div class="wpb_column vc_column_container text-default vc_col-sm-6"><div class="vc_column-inner vc_custom_1511943578802"><div class="wpb_wrapper">
+              </div></div></div></div></div></div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-12 vc_col-lg-3 vc_col-md-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="departments-wrap  csgve-nav-61a81edfd39c3"><h4 class="department-wrap-title">Specialties</h4><ul><li><a href="department/endocrinology/">Endocrinology</a></li><li><a href="department/ophthalmology/">Ophthalmology</a></li><li><a href="department/general-surgery/">General Surgery</a></li><li><a href="/department/podiatry/">Podiatry</a></li><li><a href="/department/physiotherapy-yoga/">Physiotherapy/Yoga</a></li><li><a href="department/nutrition/">Nutrition</a></li></ul><div class="csgve-btn-group"><a href="/specialties" class="csgve-btn csgve-medium-btn csgve-green-btn">View All Specialities</a></div></div></div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-parallax="2" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1547112084062 vc_row-has-fill vc_general vc_parallax vc_parallax-content-moving"><div class="csgve-overlay-pattern" style="background-color:rgba(1,24,45,0.5);"></div><div class="wpb_column vc_column_container text-default vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="csgve-item status-item "><h2 class="csgve-counter" style="color:#ffffff;">30100</h2><h5 class="status-title" style="color:#ffffff;">Satisfied Patients</h5></div></div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="csgve-item status-item "><h2 class="csgve-counter" style="color:#ffffff;">15</h2><h5 class="status-title" style="color:#ffffff;">Health Departments</h5></div></div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="csgve-item status-item "><h2 class="csgve-counter" style="color:#ffffff;">97</h2><h5 class="status-title" style="color:#ffffff;">Hospital Rooms</h5></div></div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="csgve-item status-item "><h2 class="csgve-counter" style="color:#ffffff;">142</h2><h5 class="status-title" style="color:#ffffff;">Qualified Staffs</h5></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div>
+        <!-- handbook       -->
+<!--               
+              <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1590651482753"><div class="wpb_column vc_column_container text-default vc_col-sm-6"><div class="vc_column-inner vc_custom_1511943578802"><div class="wpb_wrapper">
 	<div  class="wpb_single_image wpb_content_element vc_align_left">
 		<h2 class="wpb_heading wpb_singleimage_heading">Handbook of Inpatient Glucose Management</h2>
 		<figure class="wpb_wrapper vc_figure">
 			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="662" height="504" src="https://www.cdi.org.in/wp-content/uploads/2020/05/HANDBOOK-OF-IN-PATIENT-GLUCOSE-MANAGEMENT-final12-feb.jpg" class="vc_single_image-img attachment-large" alt="Handbook of in-patient glucose management" srcset="https://www.cdi.org.in/wp-content/uploads/2020/05/HANDBOOK-OF-IN-PATIENT-GLUCOSE-MANAGEMENT-final12-feb.jpg 662w, https://www.cdi.org.in/wp-content/uploads/2020/05/HANDBOOK-OF-IN-PATIENT-GLUCOSE-MANAGEMENT-final12-feb-300x228.jpg 300w, https://www.cdi.org.in/wp-content/uploads/2020/05/HANDBOOK-OF-IN-PATIENT-GLUCOSE-MANAGEMENT-final12-feb-600x457.jpg 600w" sizes="(max-width: 662px) 100vw, 662px" /></div>
 		</figure>
 	</div>
-</div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div>
+
+
+<div class="wpb_column vc_column_container text-default vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
 
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
@@ -1316,10 +759,20 @@ ul.job_listings li.job_listing a .meta {
 
 		</div>
 	</div>
-</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_row-no-padding"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner vc_custom_1511943142555"><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_custom_1511943114305  vc_custom_1511943114305" ><span class="vc_sep_holder vc_sep_holder_l"><span  style="border-color:#eeeeee;" class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  style="border-color:#eeeeee;" class="vc_sep_line"></span></span>
-</div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1539583097745"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner vc_custom_1511943578802"><div class="wpb_wrapper"><div  class="wpb_images_carousel wpb_content_element vc_clearfix">
+</div></div></div></div> -->
+
+
+
+
+
+<div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_row-no-padding"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner vc_custom_1511943142555"><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_custom_1511943114305  vc_custom_1511943114305" ><span class="vc_sep_holder vc_sep_holder_l"><span  style="border-color:#eeeeee;" class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  style="border-color:#eeeeee;" class="vc_sep_line"></span></span>
+</div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div>
+
+<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1539583097745"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner vc_custom_1511943578802"><div class="wpb_wrapper"><div  class="wpb_images_carousel wpb_content_element vc_clearfix">
 	<div class="wpb_wrapper">
-		<h2 class="wpb_heading wpb_gallery_heading">Awareness about COVID 19 pandemic</h2>		<div id="vc_images-carousel-1-1638407903" data-ride="vc_carousel" data-wrap="true" style="width: 100%;" data-interval="3000" data-auto-height="yes" data-mode="horizontal" data-partial="false" data-per-view="3" data-hide-on-end="false" class="vc_slide vc_images_carousel">
+		<h2 class="wpb_heading wpb_gallery_heading">Awareness about COVID 19 pandemic</h2>	
+    
+    <div id="vc_images-carousel-1-1638407903" data-ride="vc_carousel" data-wrap="true" style="width: 100%;" data-interval="3000" data-auto-height="yes" data-mode="horizontal" data-partial="false" data-per-view="3" data-hide-on-end="false" class="vc_slide vc_images_carousel">
 							<!-- Indicators -->
 				<ol class="vc_carousel-indicators">
 											<li data-target="#vc_images-carousel-1-1638407903" data-slide-to="0"></li>
@@ -1334,7 +787,7 @@ ul.job_listings li.job_listing a .meta {
 											<li data-target="#vc_images-carousel-1-1638407903" data-slide-to="9"></li>
 									</ol>
 						<!-- Wrapper for slides -->
-			<div class="vc_carousel-inner">
+			<!-- <div class="vc_carousel-inner">
 				<div class="vc_carousel-slideline">
 					<div class="vc_carousel-slideline-inner">
 																				<div class="vc_item">
@@ -1397,9 +850,12 @@ ul.job_listings li.job_listing a .meta {
 											<img width="1080" height="1080" src="https://www.cdi.org.in/wp-content/uploads/2020/05/COVID-001.jpg" class="attachment-full" alt="What is Corona Virus" srcset="https://www.cdi.org.in/wp-content/uploads/2020/05/COVID-001.jpg 1080w, https://www.cdi.org.in/wp-content/uploads/2020/05/COVID-001-150x150.jpg 150w, https://www.cdi.org.in/wp-content/uploads/2020/05/COVID-001-300x300.jpg 300w, https://www.cdi.org.in/wp-content/uploads/2020/05/COVID-001-768x768.jpg 768w, https://www.cdi.org.in/wp-content/uploads/2020/05/COVID-001-1024x1024.jpg 1024w, https://www.cdi.org.in/wp-content/uploads/2020/05/COVID-001-600x600.jpg 600w, https://www.cdi.org.in/wp-content/uploads/2020/05/COVID-001-100x100.jpg 100w" sizes="(max-width: 1080px) 100vw, 1080px" />										</a>
 																	</div>
 							</div>
+
 											</div>
 				</div>
-			</div>
+			</div> -->
+
+
 							<!-- Controls -->
 				<a class="vc_left vc_carousel-control" href="#vc_images-carousel-1-1638407903" data-slide="prev">
 					<span class="icon-prev"></span>
@@ -1410,8 +866,15 @@ ul.job_listings li.job_listing a .meta {
 					</div>
 	</div>
 </div>
-</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1547111499767 vc_row-has-fill vc_row-no-padding"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner vc_custom_1511937651952"><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_custom_1511937182722  vc_custom_1511937182722" ><span class="vc_sep_holder vc_sep_holder_l"><span  style="border-color:#eeeeee;" class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  style="border-color:#eeeeee;" class="vc_sep_line"></span></span>
-</div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1539584425912 vc_row-has-fill"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><h1 style="color: #dedc00;text-align: center" class="vc_custom_heading" >Patient Testimonials</h1>
+</div></div></div></div>
+
+<div class="vc_row-full-width vc_clearfix"></div>
+<div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1547111499767 vc_row-has-fill vc_row-no-padding"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner vc_custom_1511937651952"><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_custom_1511937182722  vc_custom_1511937182722" ><span class="vc_sep_holder vc_sep_holder_l"><span  style="border-color:#eeeeee;" class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  style="border-color:#eeeeee;" class="vc_sep_line"></span></span>
+</div></div></div></div></div>
+
+<div class="vc_row-full-width vc_clearfix"></div>
+
+<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1539584425912 vc_row-has-fill"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><h1 style="color: #dedc00;text-align: center" class="vc_custom_heading" >Patient Testimonials</h1>
   <div class="csgve-testimonials  testimonials-style-one">
   <div class="container">
     <div class="testimonials-wrap">
@@ -1432,6 +895,8 @@ ul.job_listings li.job_listing a .meta {
           <h5 class="author-designation"><span  class="testi-pro">IPD Feedback</span></h5>
         </div>
       </div>
+
+<!--       
           <div class="item">
         <div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/10/patient-183x183.jpg" alt=""></div>
         <div class="author-info">
@@ -1553,13 +1018,18 @@ ul.job_listings li.job_listing a .meta {
           <h5 class="author-designation"><span  class="testi-pro">Google Map</span></h5>
         </div>
       </div>
-    
+     -->
     </div> <!-- Carousel End -->
     </div>
     </div>
   </div> <!-- Testimonial End -->
 
-</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner vc_custom_1511845516363"><div class="wpb_wrapper"><div class="csgve-clients"><div class="container"><div class="owl-carousel"
+</div></div></div></div>
+
+
+
+<div class="vc_row-full-width vc_clearfix"></div>
+<div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner vc_custom_1511845516363"><div class="wpb_wrapper"><div class="csgve-clients"><div class="container"><div class="owl-carousel"
            data-loop="false" data-items="5" data-margin="0" data-autoplay-timeout="2000" data-autoplay="true" data-mouse-drag="true" data-auto-height="true" data-items-tablet="5" data-items-mobile-landscape="4" data-items-mobile-portrait="2"><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/alfa-laval.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/bajaj-allianz.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/century-enka.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/chellship.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/cummins.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/kpit.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/ksb.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/logo1.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/logo2.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/logo3.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/logo4.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/logo5.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/logo6.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/logo7.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/logo8.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/logo9.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/logo10.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/logo11.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/logo12.jpg" alt=""></div></div><div class="item"><div class="csgve-image"><img src="https://www.cdi.org.in/wp-content/uploads/2018/09/logo13.jpg" alt=""></div></div></div></div></div></div></div></div></div>
 		</div><!-- Content Area -->
 			</div>
