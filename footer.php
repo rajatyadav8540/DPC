@@ -17,7 +17,7 @@
 	    <!-- Footer Widgets -->
 <div class="container">
 	<div class="row">
-		<div class="col-md-3 col-sm-6"><div class=" csgve-widget widget_media_image footer-item"><img width="114" height="114" src="" class="image wp-image-3089  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://www.cdi.org.in/wp-content/uploads/2018/09/apple-icon-114x114.png 114w, https://www.cdi.org.in/wp-content/uploads/2018/09/apple-icon-114x114-100x100.png 100w" sizes="(max-width: 114px) 100vw, 114px" /><div class="clear"></div></div> <!-- end widget --><div class=" csgve-widget vt-text-widget footer-item"><h4 class="column-title">About Chellaram Hospital- Diabetes Care &#038; Multispeciality</h4>Chellaram Hospital- Diabetes Care & Multispeciality, a unit of Chellaram Foundation, is a Not-for-Profit Institute based in Pune.
+		<div class="col-md-3 col-sm-6"><div class=" csgve-widget widget_media_image footer-item"><img width="114" height="114" src="img/loog.jpg" class="image wp-image-3089  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="" sizes="(max-width: 114px) 100vw, 114px" /><div class="clear"></div></div> <!-- end widget --><div class=" csgve-widget vt-text-widget footer-item"><h4 class="column-title">About Chellaram Hospital- Diabetes Care &#038; Multispeciality</h4>Chellaram Hospital- Diabetes Care & Multispeciality, a unit of Chellaram Foundation, is a Not-for-Profit Institute based in Pune.
 <div class="csgve-btn-group  csgve-main-btn-61a81edfdf1e5">
               <a href="Overview.html"  class="csgve-btn">Read More</a>
             </div>
