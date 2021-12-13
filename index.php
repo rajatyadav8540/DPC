@@ -2,6 +2,15 @@
 <!--[if IE 8]> <html lang="en-US" prefix="og: http://ogp.me/ns#" class="ie8"> <![endif]-->
 <!--[if !IE]><!--> <html lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
 <head>
+<meta name="msvalidate.01" content="C52810F00EB501F89887A00122863B0A" />	
+<script src="https://www.kenyt.ai/botapp/ChatbotUI/dist/js/bot-loader.js" type="text/javascript" data-bot="55438071"></script>	
+	
+<!-- Global site tag (gtag.js) - Google Ads: 454762883 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-454762883"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());g
 
 	
 	
