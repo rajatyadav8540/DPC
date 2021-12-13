@@ -10,6 +10,9 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   </head>
   <body>
+
+
+
   <footer class="csgve-footer">
 	    <!-- Footer Widgets -->
 <div class="container">
@@ -40,16 +43,16 @@
 
 <li><a href="/terms-and-conditions/">Terms & Conditions</a></li>
 
-<li><a href="https://www.cdi.org.in/cancellation-refund-policy/">Refund Policy</a></li>
+<li><a href="#">Refund Policy</a></li>
 
 </ul>
 
 
-<div class="clear"></div></div> <!-- end widget --></div><div class="col-md-3 col-sm-6"><div class=" csgve-widget widget_media_image footer-item"><h4 class="column-title">Diabetes Health Magazine</h4><a href="http://www.diabeteshealth.co.in" target="_blank"><img width="229" height="300" src="https://www.cdi.org.in/wp-content/uploads/2020/12/dec20-jan21-229x300.jpg" class="image wp-image-7418  attachment-medium size-medium" alt="Best Multispeciality Hospital in Pune" style="max-width: 100%; height: auto;" title="Diabetes Health Magazine" /></a><div class="clear"></div></div> <!-- end widget --><div class=" csgve-widget vt-text-widget footer-item"><a href="http://www.diabeteshealth.co.in/" target="_blank" class=" csgve-simple-link-61a81edfdf894">View Details</a>
+<div class="clear"></div></div> <!-- end widget --></div><div class="col-md-3 col-sm-6"><div class=" csgve-widget widget_media_image footer-item"><h4 class="column-title">Diabetes Health Magazine</h4><a href="http://www.diabeteshealth.co.in" target="_blank"><img width="229" height="300" src="#" class="image wp-image-7418  attachment-medium size-medium" alt="Best Multispeciality Hospital in Pune" style="max-width: 100%; height: auto;" title="Diabetes Health Magazine" /></a><div class="clear"></div></div> <!-- end widget --><div class=" csgve-widget vt-text-widget footer-item"><a href="http://www.diabeteshealth.co.in/" target="_blank" class=" csgve-simple-link-61a81edfdf894">View Details</a>
 
-<div class="clear"></div></div> <!-- end widget --><div class=" csgve-widget vt-text-widget footer-item"><a href="https://www.magzter.com/IN/Chellaram-Foundation/Diabetes-Health/Lifestyle/" target="_blank" class=" csgve-simple-link-61a81edfdf8fe">Diabetes Health Digital Magazine</a><div class="clear"></div></div> <!-- end widget --></div><div class="col-md-3 col-sm-6"><div class=" csgve-widget vt-text-widget footer-item"><h4 class="column-title">Contact Details</h4><div class="bullet-list contact-details-wrap  csgve-list-61a81edfdfa46">
-              <p>1st Floor, Lalani Quantum, Bavdhan Budruk, Pune-411021</p>
-              <ul><li><i class="fa fa-phone" aria-hidden="true"></i> Tell <a href="tel:020 66839 777 / 877" >020 66839 777 / 877</a></li><li><i class="fa fa-envelope-o" aria-hidden="true"></i> Email <a href="mailto:mail@cdi.org.in" >mail@cdi.org.in</a></li><li><i class="fa fa-globe" aria-hidden="true"></i> Website <a href="http://cdi.org.in/" target="_blank">cdi.org.in</a></li></ul></div>
+<div class="clear"></div></div> <!-- end widget --><div class=" csgve-widget vt-text-widget footer-item"><a href="#" target="_blank" class=" csgve-simple-link-61a81edfdf8fe">Diabetes Health Digital Magazine</a><div class="clear"></div></div> <!-- end widget --></div><div class="col-md-3 col-sm-6"><div class=" csgve-widget vt-text-widget footer-item"><h4 class="column-title">Contact Details</h4><div class="bullet-list contact-details-wrap  csgve-list-61a81edfdfa46">
+              <p>XXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
+              <ul><li><i class="fa fa-phone" aria-hidden="true"></i> Tell <a href="tel:020 66839 777 / 877" >020 66839 777 / 877</a></li><li><i class="fa fa-envelope-o" aria-hidden="true"></i> Email <a href="mailto:mail@cdi.org.in" >XXXXXXX</a></li><li><i class="fa fa-globe" aria-hidden="true"></i> Website <a href="#" target="_blank">XXXX</a></li></ul></div>
 <div class="csgve-btn-group  csgve-main-btn-61a81edfdfb01">
               <a href="https://goo.gl/maps/YvdtAT317L82"  class="csgve-btn">Get Map Direction<i class="fa fa-long-arrow-right"></i></a>
             </div><div class="clear"></div></div> <!-- end widget --></div>	</div>
@@ -61,8 +64,8 @@
 <div class="csgve-copyright">
 	<div class="container">
 		<div class="col-sm-12 aligncenter">
-			© All Rights Reserved. Chellaram Hospital- Diabetes Care &amp; Multispeciality 2018.
-<div class="csgve-social  csgve-socials-61a81edfdfd1c"><a href="https://www.facebook.com/ChellaramHospital?ref=hl" target="_blank" class="icon-fa-facebook-square"><i class="fa fa-facebook-square"></i></a><a href="https://www.youtube.com/channel/UCSZMucsfdUG-uaA3DLWpuaQ" target="_blank" class="icon-fa-youtube-play"><i class="fa fa-youtube-play"></i></a><a href="https://twitter.com/Chellaram_Hosp" target="_blank" class="icon-fa-twitter"><i class="fa fa-twitter"></i></a></div>
+			© All Rights Reserved. XXXXXXXXX &amp; Multispeciality 2018.
+<div class="csgve-social  csgve-socials-61a81edfdfd1c"><a href="#" target="_blank" class="icon-fa-facebook-square"><i class="fa fa-facebook-square"></i></a><a href="#" target="_blank" class="icon-fa-youtube-play"><i class="fa fa-youtube-play"></i></a><a href="#" target="_blank" class="icon-fa-twitter"><i class="fa fa-twitter"></i></a></div>
 		</div>
 			</div>
 </div>
@@ -97,10 +100,13 @@
 <div class="callto hidden-lg hidden-md">
 <div class="calltoaction">
 <div class="col-sm-12"style="border:1px solid #ffffff;">
-<a href="tel:020 66839 777"><button type="button" class="btn btncallto" >Call Us On 020 66839 777</button></a></div>
+<a href="tel:020 66839 777"><button type="button" class="btn btncallto" >Call Us On 000 000 0000</button></a></div>
 <div class="col-sm-12"style="border:1px solid #ffffff;">
 <a class="btn btncallto btn-lg" href="/online-consultation/"><button type="button" class="btn btncallto btn-lg">Book Appointment</button></a>
 </div>
+
+
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

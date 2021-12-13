@@ -506,14 +506,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <!-- Header Start -->
-<?php include 'header.php';
-
-$q="SELECT * FROM doctors";
-$qr=mysqli_query($con,$q);
-$data=mysqli_fetch_array($qr);
-print($data[2]);
-
-?>
+  <?php include 'header2.php' ?>
     <!-- Header End -->
 
 
