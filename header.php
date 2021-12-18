@@ -69,6 +69,7 @@
 				<li class="d-inline float-right mx-3"><img src="img/loog.jpg" alt="" class="img-fluid" height="100" width="100"></li>
 			</ul>
 		  </div>
+		  
 		  <nav class="navbar navbar-expand-sm" style="position: sticky; top:0; background-color:white; border-top:1px solid rgb(58, 58, 58); height: 80px;">
 			  <div class="container">
 

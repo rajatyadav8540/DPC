@@ -107,6 +107,7 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
       visibility: visible;
     }
   </style>
+  
   <link rel='stylesheet' id='wcqi-css-css'
     href='https://www.cdi.org.in/wp-content/plugins/woocommerce-quantity-increment/assets/css/wc-quantity-increment.css?ver=4.9.18'
     type='text/css' media='all' />
@@ -788,7 +789,7 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 
 
   <!-- Header Start -->
-  <?php include 'header2.php' ?>
+  <?php include 'test.php' ?>
   <!-- Header End -->
 
 
