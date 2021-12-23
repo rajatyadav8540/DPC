@@ -29,7 +29,7 @@
 
 </head>
 
-<body>
+<body class="clinic_version">
 
    <header>
       <div class="header-top wow fadeIn">
@@ -63,7 +63,7 @@
                <div id="navbar" class="navbar-collapse collapse">
                   <ul class="nav navbar-nav">
                      <li class="nav-item"><a class="active" href="index.html">Home</a></li>
-                     <li class="nav-item"><a data-scroll href="#">About us</a>
+                     <li class="nav-item"><a data-scroll href="/aboutus.php">About us</a>
                         <ul class="list-group dropdown-content p-0" >
                         <li class="list-group-item p-0 bg-blue"><a href="#" class="">link1</a></li>
                         <li class="list-group-item p-0 bg-blue"><a href="#" class="">link2</a></li>

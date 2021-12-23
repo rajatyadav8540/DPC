@@ -1,44 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-   <!-- Basic -->
-   <meta charset="utf-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <!-- Mobile Metas -->
-   <meta name="viewport" content="width=device-width, initial-scale=1">
-   <meta name="viewport" content="initial-scale=1, maximum-scale=1">
-   <!-- Site Metas -->
-   <title>Life Care - Responsive HTML5 Multi Page Template</title>
-   <meta name="keywords" content="">
-   <meta name="description" content="">
-   <meta name="author" content="">
-   <!-- Site Icons -->
-   <link rel="shortcut icon" href="images/fevicon.ico.png" type="image/x-icon" />
-   <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-   <!-- Bootstrap CSS -->
-   <link rel="stylesheet" href="css/bootstrap.min.css">
-   <!-- Site CSS -->
-   <link rel="stylesheet" href="style.css">
-   <!-- Colors CSS -->
-   <link rel="stylesheet" href="css/colors.css">
-   <!-- ALL VERSION CSS -->
-   <link rel="stylesheet" href="css/versions.css">
-   <!-- Responsive CSS -->
-   <link rel="stylesheet" href="css/responsive.css">
-   <!-- Custom CSS -->
-   <link rel="stylesheet" href="css/custom.css">
-   <!-- Modernizer for Portfolio -->
-   <script src="js/modernizer.js"></script>
-   <!-- [if lt IE 9] -->
-   </head>
-   <body class="clinic_version">
-      <!-- LOADER -->
-      <!-- <div id="preloader">
-         <img class="preloader" src="images/loaders/heart-loading2.gif" alt="">
-      </div> -->
-      <!-- END LOADER -->
+
 <?php include 'header4.php' ?>
-
-
       
       <div id="home" class="parallax first-section wow fadeIn" data-stellar-background-ratio="0.4" style="background-image:url('images/slider-bg.png');">
          <div class="container">
@@ -293,9 +254,7 @@
          </div>
       </div>
       <!-- end section -->
-	  
 	  <!-- doctor -->
-	  
 	  <div id="doctors" class="parallax section db" data-stellar-background-ratio="0.4" style="background:#fff;" data-scroll-id="doctors" tabindex="-1">
         <div class="container">
 		
@@ -618,43 +577,35 @@
       <footer id="footer" class="footer-area wow fadeIn">
          <div class="container">
             <div class="row">
-               <div class="col-md-4">
+               <div class="col-md-3">
                   <div class="logo padding">
-                     <a href=""><img src="images/logo.png" alt=""></a>
-                     <p>Locavore pork belly scen ester pine est chill wave microdosing pop uple itarian cliche artisan.</p>
+                     <a href=""><img src="images\loog.png" alt=""></a>
+                     <p>DPC has been providing health services to people in need for the past 14 years. We provide a wide range of state-of-the-art medicines for diagnostic and therapeutic purposes, with care and compassion. </p>
                   </div>
                </div>
-               <div class="col-md-4">
+               <div class="col-md-3">
+                  <div class="footer-info padding">
+                     <h3>QUICK LINK</h3>
+                     <p> > Home</p>
+                     <p> > Our Doctors</p>
+                     <p> > About Us</p>
+                     <p> > News & events</p>
+                     <p> > Privay Policy</p>
+                     <p> > Health</p>
+                  </div>
+               </div>
+               <div class="col-md-3">
                   <div class="footer-info padding">
                      <h3>CONTACT US</h3>
-                     <p><i class="fa fa-map-marker" aria-hidden="true"></i> PO Box 16122 Collins Street West Victoria 8007 Australia</p>
+                     <p><i class="fa fa-map-marker" aria-hidden="true"></i> Dr. Bharats Patel Clinic</p>
                      <p><i class="fa fa-paper-plane" aria-hidden="true"></i> info@gmail.com</p>
                      <p><i class="fa fa-phone" aria-hidden="true"></i> (+1) 800 123 456</p>
                   </div>
                </div>
-               <div class="col-md-4">
+               <div class="col-md-3">
                   <div class="subcriber-info">
-                     <h3>SUBSCRIBE</h3>
-                     <p>Get healthy news, tip and solutions to your problems from our experts.</p>
-                     <div class="subcriber-box">
-                        <form id="mc-form" class="mc-form">
-                           <div class="newsletter-form">
-                              <input type="email" autocomplete="off" id="mc-email" placeholder="Email address" class="form-control" name="EMAIL">
-                              <button class="mc-submit" type="submit"><i class="fa fa-paper-plane"></i></button> 
-                              <div class="clearfix"></div>
-                              <!-- mailchimp-alerts Start -->
-                              <div class="mailchimp-alerts">
-                                 <div class="mailchimp-submitting"></div>
-                                 <!-- mailchimp-submitting end -->
-                                 <div class="mailchimp-success"></div>
-                                 <!-- mailchimp-success end -->
-                                 <div class="mailchimp-error"></div>
-                                 <!-- mailchimp-error end -->
-                              </div>
-                              <!-- mailchimp-alerts end -->
-                           </div>
-                        </form>
-                     </div>
+                     <h3>Directions</h3>
+                    
                   </div>
                </div>
             </div>
