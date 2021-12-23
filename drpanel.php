@@ -5,6 +5,7 @@
   <title>drpanel</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="shortcut icon" href="images/DPClogo.png" type="image/x-icon" />
 
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
 
@@ -13,7 +14,7 @@
 </head>
 
 <body>
-
+<?php require 'common.php'?>
   <div class="wrapper d-flex align-items-stretch">
     <nav id="sidebar">
       <div class="custom-menu">
@@ -22,8 +23,8 @@
       </div>
       <div class="img bg-wrap text-center py-4" style="background-image:url(img/loog.jpg) ;">
         <div class="user-logo">
-          <div class="img" style="background-image:url(img/loog.jpg) ;"></div>
-          <h3>Dr. xxxxx</h3>
+          <div class="img" style="background-image:url(img/profile.png) ;"></div>
+          <h3>Dr. Bharat Kumar D Dholu Patel</h3>
         </div>
       </div>
       <ul class="list-unstyled components mb-5">
@@ -52,7 +53,7 @@
     <!-- Tab Content  -->
     <div class="tab-content">
       <div id="home" class="active tab-pane fade show p-4 p-md-5 pt-5">
-        <h2 class="mb-4">Dr. Saahab</h2>
+        <h2 class="mb-4">About Doctor</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
           dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
           commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
@@ -92,16 +93,34 @@
       </div>
       <div id="patients" class="tab-pane fade p-4 p-md-5 pt-5">
         <h2 class="mb-4">Patients</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-          dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-          commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-          nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-          id est laborum.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-          dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-          commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-          nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-          id est laborum.</p>
+   <?php
+   $qr="SELECT * FROM patients";
+   $qrr=mysqli_query($con,$qr);
+   ?>    
+<div class="container">
+            
+  <table class="table table-dark table-hover">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Problem</th>
+        <th>Address</th>
+      </tr>
+    </thead>
+    <tbody>
+<?php while($data=mysqli_fetch_array($qrr)){ ?>
+  <tr>
+        <td><?=$data[1]?></td>
+        <td><?=$data['problem']?></td>
+        <td><?=$data['address']?></td>
+      </tr>
+     <?php } ?>
+
+
+    </tbody>
+  </table>
+</div>
+
       </div>
       <div id="settings" class="tab-pane fade p-4 p-md-5 pt-5">
         <h2 class="mb-4">Settings</h2>

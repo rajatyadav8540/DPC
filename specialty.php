@@ -1,24 +1,4 @@
-<!doctype html>
-<html lang="en">
-
-<head>
-  <title>Book an appointment</title>
-  <!-- Required meta tags -->
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="shortcut icon" href="images/fevicon.ico.png" type="image/x-icon" />
-   <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-   <!-- Bootstrap CSS -->
-   <link rel="stylesheet" href="css/bootstrap.min.css">
-   <!-- Site CSS -->
-   <link rel="stylesheet" href="style.css">
-   <!-- Colors CSS -->
-   <link rel="stylesheet" href="css/colors.css">
-   <!-- ALL VERSION CSS -->
-   <link rel="stylesheet" href="css/versions.css">
-   <!-- Responsive CSS -->
-   <link rel="stylesheet" href="css/responsive.css">
-   <!-- Custom CSS --><!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
    <!-- Basic -->
    <meta charset="utf-8">
@@ -56,7 +36,7 @@
          <img class="preloader" src="images/loaders/heart-loading2.gif" alt="">
       </div> -->
       <!-- END LOADER -->
-<?php include 'header.php' ?>
+<?php include 'header4.php' ?>
     <div class="my-5"></div>
     <div class="jumbotron bg-primary">Specialties</div>
 
@@ -137,69 +117,4 @@
 
       
    </body>
-</html>
-   <link rel="stylesheet" href="css/custom.css">
-   <!-- Modernizer for Portfolio -->
-   <script src="js/modernizer.js"></script>
-
-  </head>
-
-<body>
-
-  <!-- Csgve Page Title, Csgve Parallax -->
-  <div class="csgve-page-title csgve-parallax padding-none " style="">
-    <div class="csgve-overlay-pattern" style="background-color:rgba(52,129,219,0.5);"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8">
-          <h2 class="page-title"><?php echo "hello"; ?></h2>
-        </div>
-        <div class="col-md-4">
-          <nav aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs"></nav>
-        </div>
-      </div>
-    </div>
-  </div>
-<?php 
-    $sp="SELECT * FROM specialty";
-    $spr=mysqli_query($con,$sp);
-?>
-  <div class="container my-5">
-    <h2 class="">Book Doctor Consultation and Health Package</h2>
-    <div id="accordion">
-<?php while($sprd=mysqli_fetch_array($spr)){ ?>
-  <div class="card">
-    <div class="card-header">
-      <a class="card-link" data-toggle="collapse" href="#collapse<?= $sprd[0]?>">
-        <?= $sprd[1]?>
-      </a>
-    </div>
-    <div id="collapse<?= $sprd[0]?>" class="collapse" data-parent="#accordion">
-      <div class="card-body">
-        <?php
-        $dr="SELECT * FROM doctors WHERE speciality='$sprd[1]'";
-        $drr=mysqli_query($con,$dr);
-        while($drd=mysqli_fetch_array($drr)){
-        ?>
-        
-        <div class="card">
-          <div class="card-body"><?=$drd[1]?></div>
-        </div>
-        
-        <?php } ?>
-      </div>
-    </div>
-  </div>
-<?php } ?>
-
-</div>
-</div>
-
- 
-
-  
-  <!-- Optional JavaScript -->
-  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
- </body>
-
 </html>
