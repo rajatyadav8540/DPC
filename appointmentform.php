@@ -1,20 +1,4 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DPC</title>
-    <link rel="shortcut icon" href="images/DPClogo.png" type="image/x-icon" />
-
-    <style>
-        body{
-            background-color: ;
-        }
-    </style>
-</head>
-<body>
     <?php include 'header.php' ?>
 
     <div id="service" class="services wow fadeIn" style="margin-top:170px;">
@@ -89,7 +73,5 @@
             </div>
          </div>
       </div>
-      
+      <?php include 'footer.php' ?>
 
-</body>
-</html>
