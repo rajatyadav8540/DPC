@@ -27,7 +27,7 @@
                   <div class="appointment-form">
                      <h3><span>+</span> Book Appointment</h3>
                      <div class="form">
-                        <form action="receipt.php" method="POST">
+                        <form action="appointback.php" method="POST">
                            <fieldset>
                               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                  <div class="row">
