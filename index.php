@@ -1,42 +1,370 @@
-<!DOCTYPE html>
-<html lang="en">
-   <!-- Basic -->
-   <meta charset="utf-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <!-- Mobile Metas -->
-   <meta name="viewport" content="width=device-width, initial-scale=1">
-   <meta name="viewport" content="initial-scale=1, maximum-scale=1">
-   <!-- Site Metas -->
-   <title>DPC</title>
-   <meta name="keywords" content="">
-   <meta name="description" content="">
-   <meta name="author" content="">
-   <!-- Site Icons -->
-   <link rel="shortcut icon" href="images/DPClogo.png" type="image/x-icon" />
-   <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-   <!-- Bootstrap CSS -->
-   <link rel="stylesheet" href="css/bootstrap.min.css">
-   <!-- Site CSS -->
-   <link rel="stylesheet" href="style.css">
-   <!-- Colors CSS -->
-   <link rel="stylesheet" href="css/colors.css">
-   <!-- ALL VERSION CSS -->
-   <link rel="stylesheet" href="css/versions.css">
-   <!-- Responsive CSS -->
-   <link rel="stylesheet" href="css/responsive.css">
-   <!-- Custom CSS -->
-   <link rel="stylesheet" href="css/custom.css">
-   <!-- Modernizer for Portfolio -->
-   <script src="js/modernizer.js"></script>
-   <!-- [if lt IE 9] -->
-   </head>
-   <body class="clinic_version">
-      <!-- LOADER -->
-      <!-- <div id="preloader">
-         <img class="preloader" src="images/loaders/heart-loading2.gif" alt="">
-      </div> -->
-      <!-- END LOADER -->
-<?php include 'header.php' ?>
+
+  <?php include 'header.php' ?>
+
+  <div class="csgve-mid-wrap padding-cnt-no csgve-full-width" style="">
+    <div class="container csgve-content-area">
+      <div class="row">
+
+        <div class="col-md-12 csgve-primary csgve-page-wrap">
+
+
+          <div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted">
+            <div
+              class="wpb_column vc_column_container text-default vc_col-sm-12 vc_hidden-lg vc_hidden-md vc_hidden-sm vc_hidden-xs">
+              <div class="vc_column-inner ">
+                <div class="wpb_wrapper">
+                  <div class="wpb_text_column wpb_content_element ">
+                    <div class="wpb_wrapper">
+                      <p>&lt;p&gt;&amp;lt;p&amp;gt;&amp;amp;lt;p&amp;amp;gt;</p>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"
+            class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_row-no-padding">
+            <div class="wpb_column vc_column_container text-default vc_col-sm-12">
+              <div class="vc_column-inner ">
+                <div class="wpb_wrapper">
+                  <div
+                    class="swiper-container swiper-style-two fadeslides keyboard cosgrove-slider-61a81edfc074a   hide-arrows"
+                    data-autoplay="true" style=height:500px>
+                    <div class="swiper-wrapper">
+                      <div class="swiper-slide "
+                        style="background-image: url(https://www.cdi.org.in/wp-content/uploads/2020/07/slide-a-new48.jpg);">
+                        <div class="csgve-slide-cpation">
+                          <div class="csgve-table-wrap">
+                            <div class="csgve-align-wrap">
+                              <div class="container">
+                                <div class="cpation-wrap">
+                                  <h2 class="cpation-title animated" data-animation="none">To Create A Lasting Impact
+                                    Globally</h2>
+                                  <p class="animated" data-animation="none">Welcome To Chellaram Hospital Diabetes Care
+                                    & Multispeciality</p>
+                                  <div class="csgve-btn-group"><a href="https://www.cdi.org.in/"
+                                      class="csgve-btn csgve-blue-btn animated" data-animation="bounceInUp">No. 1
+                                      Hospital in Western India for Diabetes Care </a></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="swiper-slide "
+                        style="background-image: url(https://www.cdi.org.in/wp-content/uploads/2018/11/slide-b-2-new2.jpg);">
+                        <div class="csgve-slide-cpation">
+                          <div class="csgve-table-wrap">
+                            <div class="csgve-align-wrap">
+                              <div class="container">
+                                <div class="cpation-wrap">
+                                  <h2 class="cpation-title animated" data-animation="none">Making an impact on Diabetes
+                                    Care in India</h2>
+                                  <p class="animated" data-animation="none">We're Celebrating Life</p>
+                                  <div class="csgve-btn-group"><a href="https://www.cdi.org.in/"
+                                      class="csgve-btn csgve-blue-btn animated" data-animation="bounceInUp">Among Top 10
+                                      Hospitals in India for Diabetes Care</a></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="swiper-slide "
+                        style="background-image: url(https://www.cdi.org.in/wp-content/uploads/2018/10/slide-c.jpg);">
+                        <div class="csgve-slide-cpation center">
+                          <div class="csgve-table-wrap">
+                            <div class="csgve-align-wrap">
+                              <div class="container">
+                                <div class="cpation-wrap">
+                                  <h2 class="cpation-title animated" data-animation="none">ADVANCED CARDIAC CARE</h2>
+                                  <p class="animated" data-animation="none">ANGIOGRAPHY AND ANGIOPLASTY</p>
+                                  <div class="csgve-btn-group"></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-button-next"></div>
+                  </div>
+                  <div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="vc_row-full-width vc_clearfix"></div>
+          <div data-vc-full-width="true" data-vc-full-width-init="false"
+            class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1539582869330 vc_row-has-fill">
+            <div class="wpb_column vc_column_container text-default vc_col-sm-12">
+              <div class="vc_column-inner ">
+                <div class="wpb_wrapper">
+                  <div
+                    class="csgve-doctors doctors-style-three doctor-slider-style doctor-style-one csgve-doct-61a81edfc1368 ">
+                    <div class="section-title-wrap">
+                      <h2 class="section-title">Book Online Consultation</h2>
+                    </div>
+                    <div class="owl-carousel carousel-style-two" data-loop="false" data-items="4" data-margin="29"
+                      data-dots="true" data-nav="true" data-autoplay="true" data-mouse-drag="true"
+                      data-auto-height="true" data-items-tablet="2" data-items-mobile-landscape="1"
+                      data-items-mobile-portrait="1">
+
+
+                      <div class="item">
+                        <div class="csgve-item doctors-item">
+                          <div class="csgve-image"><a href="#"><img src="img/loog.jpg" alt=""></a>
+                            <div class="icon-trigger"><span></span></div>
+                          </div>
+
+                          <div class="doctor-info">
+                            <div class="doctor-bg-change">
+                              <h4 class="doctor-name"><a href="#">Dr.xxxxxx</a></h4>
+                              <h5 class="doctor-designation">xxxxxxxx</h5>
+                              <div class="csgve-btn-group medic-button"><a
+                                  class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="#">Book an
+                                  Appointment</a></div>
+                            </div>
+                            <div class="doctor-contact-info">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+
+                    </div>
+                  </div>
+                  <!-- Doctors End -->
+
+                  <a href="#" class="csgve-btn  csgve-btn-61a81edfc34e9">Click Here to know more about Online
+                    Consultation</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="vc_row-full-width vc_clearfix"></div>
+          <div class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1585379009902">
+            <div class="wpb_column vc_column_container text-default vc_col-sm-12 vc_col-lg-4 vc_col-md-4">
+              <div class="vc_column-inner vc_custom_1512208736295">
+                <div class="wpb_wrapper">
+                  <div class="info-title  csgve-title-61a81edfc39b9-welcome-to-chellaram-hospital">Welcome to xxxxx
+                    Hospital</div>
+                  <h4 style="font-size: 16px;color: #333333;text-align: left"
+                    class="vc_custom_heading vc_custom_1611239468135">Diabetes Care &amp; Multispeciality</h4>
+                  <p style="font-size: 15px;text-align: left" class="vc_custom_heading vc_custom_1542704321026">xxxx
+                    Hospital with integrated multispecialty services is a Hospital offering state of the art
+                    infrastructure and world class treatments dedicated to diabetes and various specialties in the
+                    healthcare sector.</p><a href="/overview" class="csgve-btn  csgve-btn-61a81edfc3fd3">Read More</a>
+                </div>
+              </div>
+            </div>
+            <div class="wpb_column vc_column_container text-default vc_col-sm-12 vc_col-lg-8 vc_col-md-8">
+              <div class="vc_column-inner vc_custom_1512208744055">
+                <div class="wpb_wrapper">
+                  <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                    <div class="wpb_column vc_column_container vc_col-sm-6">
+                      <div class="vc_column-inner ">
+                        <div class="wpb_wrapper">
+                          <div class="csgve-facilities facilities-style-two csgve-facilities-61a81edfc47a6 ">
+
+                            <div class="csgve-item facilities-item">
+
+                              <div class="csgve-icon"><img
+                                  src="https://www.cdi.org.in/wp-content/uploads/2018/09/patient-guide-2.jpg" alt="">
+                              </div>
+
+                              <div class="facilities-info">
+                                <h4 class="facilities-title"><a href="/specialties">Specialties</a></h4>
+                                <p>DPC</p>
+                                <div class="view-details"><a href="/specialties"> View Details</a></div>
+
+                              </div>
+
+
+
+                            </div>
+
+
+                          </div>
+                          <div class="csgve-facilities facilities-style-two csgve-facilities-61a81edfc4994 ">
+
+                            <div class="csgve-item facilities-item">
+
+                              <div class="csgve-icon"><img src="#" alt=""></div>
+
+                              <div class="facilities-info">
+                                <h4 class="facilities-title"><a href="/health-packages">Health Packages</a></h4>
+                                <p>We offer health packages based on your health needs...</p>
+                                <div class="view-details"><a href="/health-packages"> View Details</a></div>
+
+                              </div>
+
+
+
+                            </div>
+
+
+
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="wpb_column vc_column_container vc_col-sm-6">
+                      <div class="vc_column-inner ">
+                        <div class="wpb_wrapper">
+                          <div class="csgve-facilities facilities-style-two csgve-facilities-61a81edfc4c51 ">
+
+                            <div class="csgve-item facilities-item">
+
+                              <div class="csgve-icon"><img
+                                  src="https://www.cdi.org.in/wp-content/uploads/2018/09/diagnostic.jpg" alt=""></div>
+
+                              <div class="facilities-info">
+                                <h4 class="facilities-title"><a href="#" target="_blank">Diagnostic Services</a></h4>
+                                <p>We offer comprehensive services for Pathology for cause and nature...</p>
+                                <div class="view-details"><a href="#" target="_blank"> View Details</a></div>
+
+                              </div>
+
+
+
+                            </div>
+
+
+
+                          </div>
+                          <div class="csgve-facilities facilities-style-two csgve-facilities-61a81edfc4e05 ">
+
+                            <div class="csgve-item facilities-item">
+
+                              <div class="csgve-icon"><img
+                                  src="https://www.cdi.org.in/wp-content/uploads/2018/11/surgical-procedure.jpg" alt="">
+                              </div>
+
+                              <div class="facilities-info">
+                                <h4 class="facilities-title"><a href="/surgical-procedure/">Surgeries &amp;
+                                    Procedures</a></h4>
+                                <p>DPC performs all type of surgeries which include...</p>
+                                <div class="view-details"><a href="/surgical-procedure/"> View Details</a></div>
+
+                              </div>
+
+
+
+                            </div>
+
+
+
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"
+            class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1585296958802 vc_row-no-padding">
+            <div class="wpb_column vc_column_container text-default vc_col-sm-12">
+              <div class="vc_column-inner vc_custom_1511943142555">
+                <div class="wpb_wrapper">
+                  <div
+                    class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_custom_1511943114305  vc_custom_1511943114305">
+                    <span class="vc_sep_holder vc_sep_holder_l"><span style="border-color:#eeeeee;"
+                        class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span
+                        style="border-color:#eeeeee;" class="vc_sep_line"></span></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="vc_row-full-width vc_clearfix"></div>
+
+
+          <div data-vc-full-width="true" data-vc-full-width-init="false"
+            class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1539582869330 vc_row-has-fill">
+            <div class="wpb_column vc_column_container text-default vc_col-sm-12">
+              <div class="vc_column-inner ">
+                <div class="wpb_wrapper">
+                  <div
+                    class="csgve-doctors doctors-style-three doctor-slider-style doctor-style-one csgve-doct-61a81edfc5d9d ">
+                    <div class="section-title-wrap">
+                      <h2 class="section-title">Meet Our Doctors</h2>
+                    </div>
+                    <div class="owl-carousel carousel-style-two" data-loop="false" data-items="4" data-margin="29"
+                      data-dots="true" data-nav="true" data-autoplay="true" data-mouse-drag="true"
+                      data-auto-height="true" data-items-tablet="2" data-items-mobile-landscape="1"
+                      data-items-mobile-portrait="1">
+
+
+                      <div class="item">
+                        <div class="csgve-item doctors-item">
+                          <div class="csgve-image"><a href="#"><img src="img/loog.jpg" alt=""></a>
+                            <div class="icon-trigger"><span></span></div>
+                          </div>
+
+                          <div class="doctor-info">
+                            <div class="doctor-bg-change">
+                              <h4 class="doctor-name"><a href="#">Dr.xxxxx</a></h4>
+                              <h5 class="doctor-designation">xxxxx</h5>
+                              <div class="csgve-btn-group medic-button"><a
+                                  class="csgve-btn csgve-small-btn csgve-gray-border-btn" href="#">Book an
+                                  Appointment</a></div>
+                            </div>
+                            <div class="doctor-contact-info">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+                  <!-- Doctors End -->
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="vc_row-full-width vc_clearfix"></div>
+          <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"
+            class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_row-no-padding">
+            <div class="wpb_column vc_column_container text-default vc_col-sm-12">
+              <div class="vc_column-inner vc_custom_1511943142555">
+                <div class="wpb_wrapper">
+                  <div
+                    class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_custom_1511943114305  vc_custom_1511943114305">
+                    <span class="vc_sep_holder vc_sep_holder_l"><span style="border-color:#eeeeee;"
+                        class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span
+                        style="border-color:#eeeeee;" class="vc_sep_line"></span></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="vc_row-full-width vc_clearfix"></div>
+          <!-- blogs section -->
+          <div data-vc-full-width="true" data-vc-full-width-init="false"
+            class="vc_row wpb_row vc_row-fluid csgve-dhav-dotted vc_custom_1539583097745">
+            <div class="wpb_column vc_column_container text-default vc_col-sm-12">
+              <div class="vc_column-inner vc_custom_1511943578802">
+                <div class="wpb_wrapper">
+                  <!-- Blog Start -->
+                  <div class="csgve-news csgve-post-61a81edfcc09a   news-style-one">
+                    <div class="section-title-wrap">
+                      <h2 class="section-title">News &amp; Events</h2>
+                    </div>
+                    <div class="more-news"><a href="/news-events"
+                        class="csgve-btn csgve-small-btn csgve-gray-border-btn">More News</a></div>
+
 
 
       
@@ -61,15 +389,7 @@
       <!-- end section -->
       <div id="time-table" class="time-table-section">
          <div class="container text-center">
-            <!-- <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-               <div class="row">
-                  <div class="service-time one" style="background:#2895f1;">
-                     <span class="info-icon"><i class="fa fa-ambulance" aria-hidden="true"></i></span>
-                     <h3>Emergency Case</h3>
-                     <p>Every time available for you. <br> 24x7 Services</p>
-                  </div>
-               </div>
-            </div> -->
+           
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                <div class="row">
                   <div class="service-time middle" style="background:#0071d1;">
@@ -85,15 +405,7 @@
                   </div>
                </div>
             </div>
-            <!-- <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-               <div class="row">
-                  <div class="service-time three" style="background:#0060b1;">
-                     <span class="info-icon"><i class="fa fa-hospital-o" aria-hidden="true"></i></span>
-                     <h3>Clinic Timetable</h3>
-                     <p>Dignissimos ducimus qui blanditii sentium volta tum deleniti atque cori as quos dolores et quas mole.</p>
-                  </div>
-               </div>
-            </div> -->
+           
          </div>
       </div>
       <div id="about" class="section wow fadeIn">
@@ -263,89 +575,6 @@
          <!-- end container -->
       </div>
       <!-- end section -->
-
-    
-      <!-- footer -->
-      <footer id="footer" class="footer-area wow fadeIn">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-4">
-                  <div class="logo padding">
-                     <a href=""><img src="images/DPClogo.png" alt=""></a>
-                     <p>Locavore pork belly scen ester pine est chill wave microdosing pop uple itarian cliche artisan.</p>
-                  </div>
-               </div>
-               <div class="col-md-4">
-                  <div class="footer-info padding">
-                     <h3>CONTACT US</h3>
-                     <p><i class="fa fa-map-marker" aria-hidden="true"></i> Patel Clinic Door no. 13/B Mittal Court Pune</p>
-                     <p><i class="fa fa-paper-plane" aria-hidden="true"></i> info@dpc.com</p>
-                     <p><i class="fa fa-phone" aria-hidden="true"></i> (+91) 800 123 456</p>
-                  </div>
-               </div>
-               <div class="col-md-4">
-                  <div class="subcriber-info">
-                     <h3>SUBSCRIBE</h3>
-                     <p>Get healthy news, tip and solutions to your problems from our experts.</p>
-                     <div class="subcriber-box">
-                        <form id="mc-form" class="mc-form">
-                           <div class="newsletter-form">
-                              <input type="email" autocomplete="off" id="mc-email" placeholder="Email address" class="form-control" name="EMAIL">
-                              <button class="mc-submit" type="submit"><i class="fa fa-paper-plane"></i></button> 
-                              <div class="clearfix"></div>
-                              <!-- mailchimp-alerts Start -->
-                              <div class="mailchimp-alerts">
-                                 <div class="mailchimp-submitting"></div>
-                                 <!-- mailchimp-submitting end -->
-                                 <div class="mailchimp-success"></div>
-                                 <!-- mailchimp-success end -->
-                                 <div class="mailchimp-error"></div>
-                                 <!-- mailchimp-error end -->
-                              </div>
-                              <!-- mailchimp-alerts end -->
-                           </div>
-                        </form>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </footer>
-
-
-      <div class="copyright-area wow fadeIn">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-8">
-                  <div class="footer-text">
-                     <p>© 2021 DPC. All Rights Reserved.</p>
-                  </div>
-               </div>
-               <div class="col-md-4">
-                  <div class="social">
-                     <ul class="social-links">
-                        <li><a href=""><i class="fa fa-rss"></i></a></li>
-                        <li><a href=""><i class="fa fa-facebook"></i></a></li>
-                        <li><a href=""><i class="fa fa-twitter"></i></a></li>
-                        <li><a href=""><i class="fa fa-google-plus"></i></a></li>
-                        <li><a href=""><i class="fa fa-youtube"></i></a></li>
-                        <li><a href=""><i class="fa fa-pinterest"></i></a></li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <!-- end copyrights -->
-
-
-
-      <a href="#home" data-scroll class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
-      <!-- all js files -->
-      <script src="js/all.js"></script>
-      <!-- all plugins -->
-      <script src="js/custom.js"></script>
-      <!-- map -->
-     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCNUPWkb4Cjd7Wxo-T4uoUldFjoiUA1fJc&callback=myMap"></script>
-   </body>
-</html>
+  <!-- Header Start -->
+  <?php include 'footer.php' ?>
+  <!-- Header End -->
