@@ -15,15 +15,18 @@
 
 <body>
 <?php require 'common.php'?>
+
+
+
   <div class="wrapper d-flex align-items-stretch">
-    <nav id="sidebar">
+    <nav id="sidebar" >
       <div class="custom-menu">
         <button type="button" id="sidebarCollapse" class="btn btn-primary">
         </button>
       </div>
-      <div class="img bg-wrap text-center py-4" style="background-image:url(img/loog.jpg) ;">
+      <div class="img bg-wrap text-center py-4" style="background:white ;">
         <div class="user-logo">
-          <div class="img" style="background-image:url(img/profile.png) ;"></div>
+          <div class="img" style="background-image:url(images/profile.png) ;"></div>
           <h3>Dr. Bharat Kumar D Dholu Patel</h3>
         </div>
       </div>
@@ -91,16 +94,23 @@
           nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
           id est laborum.</p>
       </div>
+
+
+
       <div id="patients" class="tab-pane fade p-4 p-md-5 pt-5">
-        <h2 class="mb-4">Patients</h2>
+       <div class="container-fluid" style="height: 130px;">
+       <h2 class="mb-4">Patients</h2> 
+       <hr>
+       </div>
+       <hr>
    <?php
    $qr="SELECT * FROM patients";
    $qrr=mysqli_query($con,$qr);
    ?>    
-<div class="container">
+<div class="container-fluid" style=" width:100%;">
             
-  <table class="table table-dark table-hover">
-    <thead>
+  <table class="table table-hover" >
+    <thead class="bg-primary fixed">
       <tr>
         <th>Name</th>
         <th>Problem</th>
@@ -122,6 +132,10 @@
 </div>
 
       </div>
+
+
+
+
       <div id="settings" class="tab-pane fade p-4 p-md-5 pt-5">
         <h2 class="mb-4">Settings</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
