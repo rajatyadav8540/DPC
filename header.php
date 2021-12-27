@@ -412,10 +412,7 @@
                         <li class="list-group-item p-0 bg-blue"><a href="#" class="">Diabetes club</a></li>
                         <li class="list-group-item p-0 bg-blue"><a href="#" class="">Cardiac Care</a></li>
                         <li class="list-group-item p-0 bg-blue border-0"><a href="#" class="">Chest Clinic</a></li>
-                        <!-- <li class="list-group-item p-0 bg-blue border-0"><a href="#" class="">Thyroid Care</a></li>
-                        <li class="list-group-item p-0 bg-blue border-0"><a href="#" class="">General Medicine Clinic</a></li>
-                        <li class="list-group-item p-0 bg-blue border-0"><a href="#" class="">Chest Clinic</a></li>
-                        <li class="list-group-item p-0 bg-blue border-0"><a href="#" class="">Chest Clinic</a></li> -->
+                      
                         </ul>
                   </li>
                      <li class="nav-item"><a data-scroll href="#">Health Checkups</a>
@@ -428,7 +425,7 @@
                      <!-- <li class="nav-item"><a data-scroll href="#">Price</a></li> -->
                      <li><a data-scroll href="#">Testimonials</a></li>
                      <li><a data-scroll href="#">Contact</a></li>
-                     <li><button><a href="appointmentform.php" class="btn btn-primary float-right">Book Appointment</a></button></li>
+                     <li><a href="appointmentform.php" >Book Appointment</a></li>
                   </ul>
                </div>
 
@@ -437,5 +434,3 @@
          </div>
       </div>
    </header>
-
-  <!-- Header Start -->
