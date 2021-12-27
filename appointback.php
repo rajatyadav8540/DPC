@@ -8,9 +8,12 @@ $time=$_POST['time'];
 $date=$_POST['date'];
 $problem=$_POST['problem'];
 $name=$_POST['name'];
+$age=$_POST['age'];
+$gender=$_POST['gender'];
 echo $name.$address.$email.$contact.$time.$date.$problem;
-$qr="INSERT INTO patients(name,contact,address,email,day,time,problem) VALUES ('$name','$contact','$address','$email','$date','$time','$problem')";
+$qr="INSERT INTO patients(name,contact,address,email,day,time,problem,Age,gender) VALUES ('$name','$contact','$address','$email','$date','$time','$problem','$age','$gender')";
 $qrr=mysqli_query($con,$qr) or die(mysqli_error($con));
+$id=mysqli_insert_id($con);
 
 
 ?>
@@ -56,12 +59,16 @@ $qrr=mysqli_query($con,$qr) or die(mysqli_error($con));
       <div style="height: 200px;">
 
       </div>
-<?php include 'header.php';
-    
+<?php 
+    include 'header.php';
         if($qrr){
-            echo '<div class="text-center my-5" style="height:30vh;"><h1 class="text-center text-success">Your Form is Submitted Successfully!</h1><br><button class="btn btn-primary "><a href="receipt.php">Download receipt</a></button></div>';
-            // header("Location:appointmentform.php");
-        }
+            
+         ?>
+         
+         <div class="text-center my-5" style="height:30vh;">
+         <h1 class="text-center text-success">Your Form is Submitted Successfully!</h1><br><button class="btn btn-primary "><a href="receipt.php/?id=<?=$id?>">Download receipt</a></button></div>';
+            
+      <?php  }
         else{
             echo "data is not inserted";
         }

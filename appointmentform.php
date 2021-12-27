@@ -30,6 +30,20 @@
                               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                  <div class="row">
                                     <div class="form-group">
+                                       <input type="text" placeholder="Your Age" id="age" name="age"/>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                 <div class="row">
+                                    <div class="form-group">
+                                       <input type="text" placeholder="Your Gender" id="gender" name="gender"/>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                 <div class="row">
+                                    <div class="form-group">
                                        <input type="text" placeholder="Contact No." id="contact" name="contact"/>
                                     </div>
                                  </div>
