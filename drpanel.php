@@ -14,7 +14,7 @@
 </head>
 
 <body>
-<?php require 'common.php'?>
+
   <div class="wrapper d-flex align-items-stretch">
     <nav id="sidebar">
       <div class="custom-menu">
@@ -23,7 +23,7 @@
       </div>
       <div class="img bg-wrap text-center py-4" style="background-image:url(img/loog.jpg) ;">
         <div class="user-logo">
-          <div class="img" style="background-image:url(img/profile.png) ;"></div>
+          <div class="img" style="background-image:url(./images/DPClogo.png) ;"></div>
           <h3>Dr. Bharat Kumar D Dholu Patel</h3>
         </div>
       </div>
